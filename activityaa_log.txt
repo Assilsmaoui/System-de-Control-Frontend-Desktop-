@@ -1,0 +1,501 @@
+2026-03-10 14:06:04|2026-03-10 14:06:18| localhost:27017/university.users| 13.57 secondes| utilisateur: emna
+2026-03-10 14:06:04|2026-03-10 14:06:18| localhost:27017/university.users| 13.57 secondes| utilisateur: emna
+2026-03-10 14:06:21|2026-03-10 14:06:36| Profil 1 – Microsoft​ Edge| 14.7 secondes| utilisateur: emna
+2026-03-10 14:06:21|2026-03-10 14:06:36| Profil 1 – Microsoft​ Edge| 14.58 secondes| utilisateur: emna
+2026-03-10 14:06:40|2026-03-10 14:06:49| localhost:27017/university.users| 9.37 secondes| utilisateur: emna
+2026-03-10 14:06:40|2026-03-10 14:06:49| localhost:27017/university.users| 9.42 secondes| utilisateur: emna
+2026-03-10 14:06:52|2026-03-10 14:06:57| Profil 1 – Microsoft​ Edge| 5.0 secondes| utilisateur: emna
+2026-03-10 14:06:51|2026-03-10 14:06:58| Profil 1 – Microsoft​ Edge| 6.18 secondes| utilisateur: emna
+2026-03-10 14:06:59|2026-03-10 14:07:41| Visual Studio Code| 41.24 secondes| utilisateur: emna
+2026-03-10 14:07:00|2026-03-10 14:07:41| Visual Studio Code| 41.2 secondes| utilisateur: emna
+2026-03-10 14:07:46|2026-03-10 14:07:53| Profil 1 – Microsoft​ Edge| 7.35 secondes| utilisateur: emna
+2026-03-10 14:07:46|2026-03-10 14:07:53| Profil 1 – Microsoft​ Edge| 7.29 secondes| utilisateur: emna
+2026-03-10 14:07:55|2026-03-10 14:08:16| Visual Studio Code| 21.22 secondes| utilisateur: emna
+2026-03-10 14:07:55|2026-03-10 14:08:16| Visual Studio Code| 21.21 secondes| utilisateur: emna
+2026-03-10 14:08:24|2026-03-10 14:08:30| Visual Studio Code| 6.0 secondes| utilisateur: emna
+2026-03-10 14:08:24|2026-03-10 14:08:30| Visual Studio Code| 6.0 secondes| utilisateur: emna
+2026-03-10 14:08:32|2026-03-10 14:08:37| Profil 1 – Microsoft​ Edge| 5.0 secondes| utilisateur: emna
+2026-03-10 14:08:32|2026-03-10 14:08:37| Profil 1 – Microsoft​ Edge| 5.0 secondes| utilisateur: emna
+2026-03-10 14:08:39|2026-03-10 14:09:51| Visual Studio Code| 72.49 secondes| utilisateur: emna
+2026-03-10 14:08:39|2026-03-10 14:09:51| Visual Studio Code| 72.49 secondes| utilisateur: emna
+2026-03-10 14:09:55|2026-03-10 14:10:26| Visual Studio Code| 31.02 secondes| utilisateur: emna
+2026-03-10 14:09:55|2026-03-10 14:10:26| Visual Studio Code| 31.02 secondes| utilisateur: emna
+2026-03-10 14:10:29|2026-03-10 14:10:47| Profil 1 – Microsoft​ Edge| 17.74 secondes| utilisateur: emna
+2026-03-10 14:10:29|2026-03-10 14:10:47| Profil 1 – Microsoft​ Edge| 17.74 secondes| utilisateur: emna
+2026-03-10 14:10:49|2026-03-10 14:16:07| Visual Studio Code| 317.45 secondes| utilisateur: emna
+2026-03-10 14:10:49|2026-03-10 14:16:07| Visual Studio Code| 317.52 secondes| utilisateur: emna
+2026-03-10 14:16:09|2026-03-10 14:16:24| Profil 1 – Microsoft​ Edge| 15.18 secondes| utilisateur: emna
+2026-03-10 14:16:09|2026-03-10 14:16:24| Profil 1 – Microsoft​ Edge| 15.24 secondes| utilisateur: emna
+2026-03-10 14:16:26|2026-03-10 14:16:31| localhost:27017/university.users| 5.0 secondes| utilisateur: emna
+2026-03-10 14:16:26|2026-03-10 14:16:31| localhost:27017/university.users| 5.0 secondes| utilisateur: emna
+2026-03-10 14:16:38|2026-03-10 14:23:57| Visual Studio Code| 438.49 secondes| utilisateur: emna
+2026-03-10 14:16:38|2026-03-10 14:23:57| Visual Studio Code| 438.46 secondes| utilisateur: emna
+2026-03-10 14:24:00|2026-03-10 14:24:08| Application Système de Contrôle (Qt)| 8.14 secondes| utilisateur: emna
+2026-03-10 14:24:00|2026-03-10 14:24:08| Application Système de Contrôle (Qt)| 8.1 secondes| utilisateur: emna
+2026-03-10 14:24:13|2026-03-10 14:24:35| Profil 1 – Microsoft​ Edge| 22.29 secondes| utilisateur: emna
+2026-03-10 14:24:13|2026-03-10 14:24:35| Profil 1 – Microsoft​ Edge| 22.37 secondes| utilisateur: emna
+2026-03-10 14:24:12|2026-03-10 14:24:36| Profil 1 – Microsoft​ Edge| 23.3 secondes| utilisateur: emna
+2026-03-10 14:24:12|2026-03-10 14:24:36| Profil 1 – Microsoft​ Edge| 23.35 secondes| utilisateur: emna
+2026-03-10 14:24:45|2026-03-10 14:24:55| localhost:27017/university.users| 10.19 secondes| utilisateur: emna
+2026-03-10 14:24:45|2026-03-10 14:24:55| localhost:27017/university.users| 10.14 secondes| utilisateur: emna
+2026-03-10 14:24:45|2026-03-10 14:24:55| localhost:27017/university.users| 10.25 secondes| utilisateur: emna
+2026-03-10 14:24:45|2026-03-10 14:24:55| localhost:27017/university.users| 10.2 secondes| utilisateur: emna
+2026-03-10 14:24:58|2026-03-10 14:26:39| Visual Studio Code| 100.26 secondes| utilisateur: emna
+2026-03-10 14:24:58|2026-03-10 14:30:51| Visual Studio Code| 353.49 secondes| utilisateur: emna
+2026-03-10 14:24:58|2026-03-10 14:30:51| Visual Studio Code| 353.47 secondes| utilisateur: emna
+2026-03-10 14:26:42|2026-03-10 14:30:52| Visual Studio Code| 250.18 secondes| utilisateur: emna
+2026-03-10 14:24:58|2026-03-10 14:30:52| Visual Studio Code| 353.45 secondes| utilisateur: emna
+2026-03-10 14:30:54|2026-03-10 14:31:05| Application Système de Contrôle (Qt)| 11.42 secondes| utilisateur: emna
+2026-03-10 14:30:53|2026-03-10 14:31:05| Application Système de Contrôle (Qt)| 11.44 secondes| utilisateur: emna
+2026-03-10 14:30:54|2026-03-10 14:31:05| Application Système de Contrôle (Qt)| 11.09 secondes| utilisateur: emna
+2026-03-10 14:30:54|2026-03-10 14:31:05| Application Système de Contrôle (Qt)| 11.19 secondes| utilisateur: emna
+2026-03-10 14:31:05|2026-03-10 14:31:10| localhost:27017/university.users| 5.0 secondes| utilisateur: emna
+2026-03-10 14:31:05|2026-03-10 14:31:10| localhost:27017/university.users| 5.0 secondes| utilisateur: emna
+2026-03-10 14:31:13|2026-03-10 14:31:26| localhost:27017/university.users| 13.32 secondes| utilisateur: emna
+2026-03-10 14:31:13|2026-03-10 14:31:26| localhost:27017/university.users| 13.33 secondes| utilisateur: emna
+2026-03-10 14:31:13|2026-03-10 14:31:26| localhost:27017/university.users| 13.17 secondes| utilisateur: emna
+2026-03-10 14:31:13|2026-03-10 14:31:26| localhost:27017/university.users| 13.32 secondes| utilisateur: emna
+2026-03-10 14:31:13|2026-03-10 14:31:26| localhost:27017/university.users| 13.01 secondes| utilisateur: emna
+2026-03-10 14:31:13|2026-03-10 14:31:27| localhost:27017/university.users| 14.01 secondes| utilisateur: emna
+2026-03-10 14:31:29|2026-03-10 14:31:34| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-10 14:31:29|2026-03-10 14:31:34| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-10 14:31:29|2026-03-10 14:31:35| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-10 14:31:29|2026-03-10 14:31:34| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-10 14:31:29|2026-03-10 14:31:34| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-10 14:31:30|2026-03-10 14:31:35| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-10 14:31:39|2026-03-10 14:31:49| Visual Studio Code| 10.01 secondes| utilisateur: emna
+2026-03-10 14:31:39|2026-03-10 14:31:50| Visual Studio Code| 11.01 secondes| utilisateur: emna
+2026-03-10 14:31:39|2026-03-10 14:31:50| Visual Studio Code| 11.01 secondes| utilisateur: emna
+2026-03-10 14:31:39|2026-03-10 14:31:50| Visual Studio Code| 11.01 secondes| utilisateur: emna
+2026-03-10 14:31:39|2026-03-10 14:31:50| Visual Studio Code| 11.01 secondes| utilisateur: emna
+2026-03-10 14:31:39|2026-03-10 14:31:50| Visual Studio Code| 11.01 secondes| utilisateur: emna
+2026-03-10 14:32:02|2026-03-10 14:32:28| Visual Studio Code| 26.01 secondes| utilisateur: emna
+2026-03-10 14:32:02|2026-03-10 14:32:28| Visual Studio Code| 26.01 secondes| utilisateur: emna
+2026-03-10 14:32:02|2026-03-10 14:32:28| Visual Studio Code| 26.01 secondes| utilisateur: emna
+2026-03-10 14:32:01|2026-03-10 14:32:32| Visual Studio Code| 31.03 secondes| utilisateur: emna
+2026-03-10 14:32:35|2026-03-10 14:33:27| Visual Studio Code| 52.03 secondes| utilisateur: emna
+2026-03-10 14:32:31|2026-03-10 14:33:28| Visual Studio Code| 57.03 secondes| utilisateur: emna
+2026-03-10 14:32:31|2026-03-10 14:33:28| Visual Studio Code| 57.03 secondes| utilisateur: emna
+2026-03-10 14:32:31|2026-03-10 14:33:28| Visual Studio Code| 57.03 secondes| utilisateur: emna
+2026-03-10 14:32:02|2026-03-10 14:33:28| Visual Studio Code| 86.06 secondes| utilisateur: emna
+2026-03-10 14:32:02|2026-03-10 14:33:28| Visual Studio Code| 86.06 secondes| utilisateur: emna
+2026-03-10 14:33:30|2026-03-10 14:34:57| Visual Studio Code| 86.05 secondes| utilisateur: emna
+2026-03-10 14:33:31|2026-03-10 14:34:57| Visual Studio Code| 86.06 secondes| utilisateur: emna
+2026-03-10 14:33:31|2026-03-10 14:34:57| Visual Studio Code| 86.05 secondes| utilisateur: emna
+2026-03-10 14:33:31|2026-03-10 14:34:57| Visual Studio Code| 86.05 secondes| utilisateur: emna
+2026-03-10 14:33:31|2026-03-10 14:34:57| Visual Studio Code| 86.05 secondes| utilisateur: emna
+2026-03-10 14:33:31|2026-03-10 14:34:57| Visual Studio Code| 86.05 secondes| utilisateur: emna
+2026-03-10 14:35:00|2026-03-10 14:35:05| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-10 14:35:08|2026-03-10 14:36:55| Visual Studio Code| 107.06 secondes| utilisateur: emna
+2026-03-10 14:35:06|2026-03-10 14:36:55| Visual Studio Code| 109.07 secondes| utilisateur: emna
+2026-03-10 14:35:06|2026-03-10 14:36:55| Visual Studio Code| 109.07 secondes| utilisateur: emna
+2026-03-10 14:35:06|2026-03-10 14:36:55| Visual Studio Code| 109.07 secondes| utilisateur: emna
+2026-03-10 14:35:06|2026-03-10 14:36:55| Visual Studio Code| 109.07 secondes| utilisateur: emna
+2026-03-10 14:35:06|2026-03-10 14:36:55| Visual Studio Code| 109.06 secondes| utilisateur: emna
+2026-03-10 14:36:58|2026-03-10 14:37:05| localhost:27017/university.activity_logs| 7.33 secondes| utilisateur: emna
+2026-03-10 14:36:58|2026-03-10 14:37:05| localhost:27017/university.activity_logs| 7.38 secondes| utilisateur: emna
+2026-03-10 14:36:58|2026-03-10 14:37:06| localhost:27017/university.activity_logs| 7.45 secondes| utilisateur: emna
+2026-03-10 14:36:58|2026-03-10 14:37:06| localhost:27017/university.activity_logs| 7.43 secondes| utilisateur: emna
+2026-03-10 14:36:58|2026-03-10 14:37:06| localhost:27017/university.activity_logs| 7.43 secondes| utilisateur: emna
+2026-03-10 14:36:58|2026-03-10 14:37:06| localhost:27017/university.activity_logs| 8.19 secondes| utilisateur: emna
+2026-03-10 14:37:10|2026-03-10 14:37:17| Visual Studio Code| 7.23 secondes| utilisateur: emna
+2026-03-10 14:37:10|2026-03-10 14:37:17| Visual Studio Code| 7.46 secondes| utilisateur: emna
+2026-03-10 14:37:10|2026-03-10 14:37:17| Visual Studio Code| 7.43 secondes| utilisateur: emna
+2026-03-10 14:37:10|2026-03-10 14:37:17| Visual Studio Code| 7.45 secondes| utilisateur: emna
+2026-03-10 14:37:10|2026-03-10 14:37:17| Visual Studio Code| 7.45 secondes| utilisateur: emna
+2026-03-10 14:37:09|2026-03-10 14:37:17| Visual Studio Code| 8.2 secondes| utilisateur: emna
+2026-03-10 14:37:22|2026-03-10 14:37:39| localhost:27017/university.activity_logs| 17.2 secondes| utilisateur: emna
+2026-03-10 14:37:22|2026-03-10 14:37:39| localhost:27017/university.activity_logs| 17.18 secondes| utilisateur: emna
+2026-03-10 14:37:22|2026-03-10 14:37:39| localhost:27017/university.activity_logs| 17.17 secondes| utilisateur: emna
+2026-03-10 14:37:22|2026-03-10 14:37:39| localhost:27017/university.activity_logs| 17.2 secondes| utilisateur: emna
+2026-03-10 14:37:22|2026-03-10 14:37:41| localhost:27017/university.activity_logs| 18.24 secondes| utilisateur: emna
+2026-03-10 14:37:23|2026-03-10 14:37:41| localhost:27017/university.activity_logs| 18.16 secondes| utilisateur: emna
+2026-03-10 14:37:42|2026-03-10 14:40:01| Visual Studio Code| 138.93 secondes| utilisateur: emna
+2026-03-10 14:37:42|2026-03-10 14:40:01| Visual Studio Code| 138.96 secondes| utilisateur: emna
+2026-03-10 14:37:44|2026-03-10 14:40:01| Visual Studio Code| 137.28 secondes| utilisateur: emna
+2026-03-10 14:37:44|2026-03-10 14:40:40| Visual Studio Code| 176.37 secondes| utilisateur: emna
+2026-03-10 14:37:42|2026-03-10 14:40:40| Visual Studio Code| 177.97 secondes| utilisateur: emna
+2026-03-10 14:40:04|2026-03-10 14:40:40| Visual Studio Code| 36.02 secondes| utilisateur: emna
+2026-03-10 14:40:04|2026-03-10 14:40:40| Visual Studio Code| 36.02 secondes| utilisateur: emna
+2026-03-10 14:40:04|2026-03-10 14:40:40| Visual Studio Code| 36.02 secondes| utilisateur: emna
+2026-03-10 14:37:42|2026-03-10 14:40:41| Visual Studio Code| 178.39 secondes| utilisateur: emna
+2026-03-10 14:40:43|2026-03-10 14:41:01| Application Système de Contrôle (Qt)| 18.2 secondes| utilisateur: emna
+2026-03-10 14:40:42|2026-03-10 14:41:01| Application Système de Contrôle (Qt)| 19.11 secondes| utilisateur: emna
+2026-03-10 14:40:42|2026-03-10 14:41:01| Application Système de Contrôle (Qt)| 19.09 secondes| utilisateur: emna
+2026-03-10 14:40:42|2026-03-10 14:41:01| Application Système de Contrôle (Qt)| 19.08 secondes| utilisateur: emna
+2026-03-10 14:40:42|2026-03-10 14:41:02| Application Système de Contrôle (Qt)| 19.2 secondes| utilisateur: emna
+2026-03-10 14:40:42|2026-03-10 14:41:02| Application Système de Contrôle (Qt)| 19.2 secondes| utilisateur: emna
+2026-03-10 14:41:03|2026-03-10 14:41:08| localhost:27017/university.activity_logs| 5.0 secondes| utilisateur: emna
+2026-03-10 14:41:03|2026-03-10 14:41:08| localhost:27017/university.activity_logs| 5.0 secondes| utilisateur: emna
+2026-03-10 14:41:03|2026-03-10 14:41:08| localhost:27017/university.activity_logs| 5.0 secondes| utilisateur: emna
+2026-03-10 14:41:03|2026-03-10 14:41:08| localhost:27017/university.activity_logs| 5.0 secondes| utilisateur: emna
+2026-03-10 14:41:01|2026-03-10 14:41:09| localhost:27017/university.activity_logs| 7.21 secondes| utilisateur: oussema
+2026-03-10 14:41:04|2026-03-10 14:41:09| localhost:27017/university.activity_logs| 5.0 secondes| utilisateur: emna
+ma
+2026-03-10 14:41:04|2026-03-10 14:41:09| localhost:27017/university.activity_logs| 5.0 secondes| utilisateur: emna
+2026-03-10 14:41:20|2026-03-10 14:41:25| Visual Studio Code| 5.0 secondes| utilisateur: oussema
+2026-03-10 14:41:19|2026-03-10 14:41:25| Visual Studio Code| 6.22 secondes| utilisateur: oussema
+2026-03-10 14:41:19|2026-03-10 14:41:25| Visual Studio Code| 6.25 secondes| utilisateur: emna
+2026-03-10 14:41:19|2026-03-10 14:41:25| Visual Studio Code| 6.22 secondes| utilisateur: emna
+2026-03-10 14:41:19|2026-03-10 14:41:25| Visual Studio Code| 6.16 secondes| utilisateur: emna
+2026-03-10 14:41:19|2026-03-10 14:41:26| Visual Studio Code| 6.2 secondes| utilisateur: emna
+2026-03-10 14:41:19|2026-03-10 14:41:26| Visual Studio Code| 6.24 secondes| utilisateur: emna
+2026-03-10 14:41:20|2026-03-10 14:41:26| Visual Studio Code| 6.23 secondes| utilisateur: emna
+2026-03-10 14:41:28|2026-03-10 14:41:36| localhost:27017/university.users| 8.3 secondes| utilisateur: oussema
+2026-03-10 14:41:28|2026-03-10 14:41:36| localhost:27017/university.users| 8.32 secondes| utilisateur: emna
+2026-03-10 14:41:28|2026-03-10 14:41:36| localhost:27017/university.users| 8.23 secondes| utilisateur: emna
+2026-03-10 14:41:28|2026-03-10 14:41:36| localhost:27017/university.users| 8.23 secondes| utilisateur: emna
+2026-03-10 14:41:27|2026-03-10 14:41:36| localhost:27017/university.users| 9.24 secondes| utilisateur: emna
+2026-03-10 14:41:27|2026-03-10 14:41:36| localhost:27017/university.users| 9.27 secondes| utilisateur: oussema
+2026-03-10 14:41:27|2026-03-10 14:41:36| localhost:27017/university.users| 9.29 secondes| utilisateur: emna
+2026-03-10 14:41:27|2026-03-10 14:41:37| localhost:27017/university.users| 9.37 secondes| utilisateur: emna
+2026-03-10 14:41:39|2026-03-10 14:42:00| Visual Studio Code| 21.25 secondes| utilisateur: emna
+2026-03-10 14:41:39|2026-03-10 14:42:00| Visual Studio Code| 21.24 secondes| utilisateur: emna
+2026-03-10 14:41:39|2026-03-10 14:42:01| Visual Studio Code| 21.21 secondes| utilisateur: emna
+2026-03-10 14:41:39|2026-03-10 14:42:01| Visual Studio Code| 21.21 secondes| utilisateur: oussema
+2026-03-10 14:41:39|2026-03-10 14:42:01| Visual Studio Code| 21.22 secondes| utilisateur: emna
+2026-03-10 14:41:40|2026-03-10 14:42:01| Visual Studio Code| 21.3 secondes| utilisateur: emna
+2026-03-10 14:41:39|2026-03-10 14:42:01| Visual Studio Code| 22.24 secondes| utilisateur: oussema
+2026-03-10 14:41:39|2026-03-10 14:42:01| Visual Studio Code| 22.26 secondes| utilisateur: emna
+2026-03-10 14:42:04|2026-03-10 14:42:15| Visual Studio Code| 11.01 secondes| utilisateur: oussema
+2026-03-10 14:42:04|2026-03-10 14:42:15| Visual Studio Code| 11.01 secondes| utilisateur: emna
+2026-03-10 14:42:04|2026-03-10 14:44:42| Visual Studio Code| 158.09 secondes| utilisateur: emna
+2026-03-10 14:44:48|2026-03-10 14:46:10| Visual Studio Code| 82.06 secondes| utilisateur: emna
+2026-03-10 14:46:13|2026-03-10 14:47:34| Visual Studio Code| 81.05 secondes| utilisateur: emna
+2026-03-10 14:47:37|2026-03-10 14:49:11| Visual Studio Code| 93.14 secondes| utilisateur: emna
+2026-03-10 14:42:18|2026-03-10 14:49:11| Visual Studio Code| 413.34 secondes| utilisateur: emna
+2026-03-10 14:42:18|2026-03-10 14:49:11| Visual Studio Code| 413.29 secondes| utilisateur: oussema
+2026-03-10 14:42:04|2026-03-10 14:49:11| Visual Studio Code| 426.35 secondes| utilisateur: oussema
+2026-03-10 14:42:03|2026-03-10 14:49:11| Visual Studio Code| 427.35 secondes| utilisateur: emna
+2026-03-10 14:42:04|2026-03-10 14:49:11| Visual Studio Code| 427.3 secondes| utilisateur: emna
+2026-03-10 14:42:04|2026-03-10 14:49:11| Visual Studio Code| 426.41 secondes| utilisateur: emna
+2026-03-10 14:42:03|2026-03-10 14:49:11| Visual Studio Code| 427.29 secondes| utilisateur: emna
+2026-03-10 14:49:13|2026-03-10 14:49:22| Application Système de Contrôle (Qt)| 8.64 secondes| utilisateur: oussema
+2026-03-10 14:49:13|2026-03-10 14:49:22| Application Système de Contrôle (Qt)| 8.71 secondes| utilisateur: emna
+2026-03-10 14:49:13|2026-03-10 14:49:22| Application Système de Contrôle (Qt)| 8.71 secondes| utilisateur: emna
+2026-03-10 14:49:13|2026-03-10 14:49:22| Application Système de Contrôle (Qt)| 8.78 secondes| utilisateur: emna
+2026-03-10 14:49:13|2026-03-10 14:49:22| Application Système de Contrôle (Qt)| 8.84 secondes| utilisateur: oussema
+2026-03-10 14:49:13|2026-03-10 14:49:22| Application Système de Contrôle (Qt)| 8.8 secondes| utilisateur: emna
+2026-03-10 14:49:13|2026-03-10 14:49:22| Application Système de Contrôle (Qt)| 8.92 secondes| utilisateur: emna
+2026-03-10 14:49:13|2026-03-10 14:49:22| Application Système de Contrôle (Qt)| 8.92 secondes| utilisateur: emna
+2026-03-10 14:49:32|2026-03-10 14:49:44| localhost:27017/university.users| 11.83 secondes| utilisateur: emna
+2026-03-10 14:49:32|2026-03-10 14:49:44| localhost:27017/university.users| 11.65 secondes| utilisateur: emna
+2026-03-10 14:49:32|2026-03-10 14:49:44| localhost:27017/university.users| 12.0 secondes| utilisateur: oussema
+2026-03-10 14:49:32|2026-03-10 14:49:44| localhost:27017/university.users| 12.03 secondes| utilisateur: emna
+2026-03-10 14:49:32|2026-03-10 14:49:44| localhost:27017/university.users| 11.9 secondes| utilisateur: emna
+2026-03-10 14:49:32|2026-03-10 14:49:44| localhost:27017/university.users| 12.02 secondes| utilisateur: emna
+2026-03-10 15:18:40|2026-03-10 15:18:54| Application Système de Contrôle (Qt)| 13.59 secondes| utilisateur: emna
+2026-03-10 15:18:40|2026-03-10 15:18:54| Application Système de Contrôle (Qt)| 13.59 secondes| utilisateur: emna
+2026-03-10 15:18:58|2026-03-10 15:19:10| Application Système de Contrôle (Qt)| 12.01 secondes| utilisateur: emna
+2026-03-10 15:18:57|2026-03-10 15:19:10| Application Système de Contrôle (Qt)| 13.01 secondes| utilisateur: emna
+2026-03-10 15:19:15|2026-03-10 15:19:27| Visual Studio Code| 12.26 secondes| utilisateur: emna
+2026-03-10 15:19:15|2026-03-10 15:19:28| Visual Studio Code| 12.34 secondes| utilisateur: emna
+2026-03-10 15:19:29|2026-03-10 15:19:35| localhost:27017/university.users| 6.17 secondes| utilisateur: emna
+2026-03-10 15:19:30|2026-03-10 15:19:36| localhost:27017/university.users| 6.18 secondes| utilisateur: emna
+2026-03-10 15:19:44|2026-03-10 15:21:48| Visual Studio Code| 123.36 secondes| utilisateur: emna
+2026-03-10 15:19:44|2026-03-10 15:25:29| Visual Studio Code| 344.49 secondes| utilisateur: emna
+2026-03-10 15:21:53|2026-03-10 15:25:29| Visual Studio Code| 216.15 secondes| utilisateur: emna
+2026-03-10 15:25:34|2026-03-10 15:26:56| Visual Studio Code| 82.07 secondes| utilisateur: emna
+2026-03-10 15:27:01|2026-03-10 15:27:50| Visual Studio Code| 48.13 secondes| utilisateur: emna
+2026-03-10 15:27:55|2026-03-10 15:29:06| Visual Studio Code| 71.05 secondes| utilisateur: emna
+2026-03-10 15:27:55|2026-03-10 15:29:06| Visual Studio Code| 71.05 secondes| utilisateur: emna
+2026-03-10 15:29:09|2026-03-10 15:29:21| Visual Studio Code| 12.01 secondes| utilisateur: emna
+2026-03-10 15:29:09|2026-03-10 15:29:21| Visual Studio Code| 12.01 secondes| utilisateur: emna
+2026-03-10 15:29:24|2026-03-10 15:29:43| Application Système de Contrôle (Qt)| 19.23 secondes| utilisateur: emna
+2026-03-10 15:29:24|2026-03-10 15:29:43| Application Système de Contrôle (Qt)| 19.23 secondes| utilisateur: emna
+2026-03-10 15:29:45|2026-03-10 15:29:50| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-10 15:29:50|2026-03-10 15:30:04| Application Système de Contrôle (Qt)| 14.01 secondes| utilisateur: emna
+2026-03-10 15:29:50|2026-03-10 15:30:04| Application Système de Contrôle (Qt)| 14.01 secondes| utilisateur: emna
+2026-03-10 15:29:52|2026-03-10 15:30:04| Application Système de Contrôle (Qt)| 12.19 secondes| utilisateur: emna
+2026-03-10 15:30:12|2026-03-10 15:30:22| localhost:27017/university.users| 9.27 secondes| utilisateur: emna
+2026-03-10 15:30:12|2026-03-10 15:30:22| localhost:27017/university.users| 10.23 secondes| utilisateur: emna
+2026-03-10 15:30:12|2026-03-10 15:30:22| localhost:27017/university.users| 10.24 secondes| utilisateur: emna
+2026-03-10 15:30:25|2026-03-10 15:31:08| Visual Studio Code| 43.24 secondes| utilisateur: emna
+2026-03-10 15:30:25|2026-03-10 15:31:08| Visual Studio Code| 43.24 secondes| utilisateur: emna
+2026-03-10 15:30:25|2026-03-10 15:31:09| Visual Studio Code| 44.2 secondes| utilisateur: emna
+2026-03-10 15:31:14|2026-03-10 15:31:52| localhost:27017/university.activity_logs| 38.2 secondes| utilisateur: emna
+2026-03-10 15:31:13|2026-03-10 15:31:53| localhost:27017/university.activity_logs| 39.26 secondes| utilisateur: emna
+2026-03-10 15:31:13|2026-03-10 15:31:53| localhost:27017/university.activity_logs| 39.3 secondes| utilisateur: emna
+2026-03-10 15:31:57|2026-03-10 15:32:09| Visual Studio Code| 12.32 secondes| utilisateur: emna
+2026-03-10 15:31:58|2026-03-10 15:32:10| Visual Studio Code| 12.47 secondes| utilisateur: emna
+2026-03-10 15:31:58|2026-03-10 15:32:10| Visual Studio Code| 12.47 secondes| utilisateur: emna
+2026-03-10 15:32:13|2026-03-10 15:32:37| localhost:27017/university.activity_logs| 24.17 secondes| utilisateur: emna
+2026-03-10 15:32:12|2026-03-10 15:32:37| localhost:27017/university.activity_logs| 25.26 secondes| utilisateur: emna
+2026-03-10 15:32:12|2026-03-10 15:32:37| localhost:27017/university.activity_logs| 25.26 secondes| utilisateur: emna
+2026-03-10 15:32:40|2026-03-10 15:32:55| localhost:27017/university.activity_logs| 15.01 secondes| utilisateur: emna
+2026-03-10 15:32:40|2026-03-10 15:32:55| localhost:27017/university.activity_logs| 15.01 secondes| utilisateur: emna
+2026-03-10 15:32:40|2026-03-10 15:32:55| localhost:27017/university.activity_logs| 15.01 secondes| utilisateur: emna
+2026-03-10 15:32:59|2026-03-10 15:33:44| Visual Studio Code| 45.37 secondes| utilisateur: emna
+2026-03-10 15:32:58|2026-03-10 15:33:45| Visual Studio Code| 46.31 secondes| utilisateur: emna
+2026-03-10 15:32:59|2026-03-10 15:33:45| Visual Studio Code| 46.31 secondes| utilisateur: emna
+2026-03-10 15:33:49|2026-03-10 15:34:06| Profil 1 – Microsoft​ Edge| 17.14 secondes| utilisateur: emna
+2026-03-10 15:33:49|2026-03-10 15:34:07| Profil 1 – Microsoft​ Edge| 18.19 secondes| utilisateur: emna
+2026-03-10 15:33:49|2026-03-10 15:34:07| Profil 1 – Microsoft​ Edge| 18.13 secondes| utilisateur: emna
+2026-03-10 15:34:12|2026-03-10 15:34:43| Visual Studio Code| 31.17 secondes| utilisateur: emna
+2026-03-10 15:34:48|2026-03-10 15:41:39| Visual Studio Code| 411.24 secondes| utilisateur: emna
+2026-03-10 15:34:12|2026-03-10 15:41:40| Visual Studio Code| 447.4 secondes| utilisateur: emna
+2026-03-10 15:34:11|2026-03-10 15:41:40| Visual Studio Code| 448.43 secondes| utilisateur: emna
+2026-03-10 15:41:41|2026-03-10 15:41:50| Application Système de Contrôle (Qt)| 8.11 secondes| utilisateur: emna
+2026-03-10 15:41:42|2026-03-10 15:41:50| Application Système de Contrôle (Qt)| 8.08 secondes| utilisateur: emna
+2026-03-10 15:41:42|2026-03-10 15:41:50| Application Système de Contrôle (Qt)| 8.07 secondes| utilisateur: emna
+2026-03-10 15:41:52|2026-03-10 15:43:46| Visual Studio Code| 114.34 secondes| utilisateur: emna
+2026-03-10 15:41:52|2026-03-10 15:43:46| Visual Studio Code| 114.29 secondes| utilisateur: emna
+2026-03-10 15:41:52|2026-03-10 15:43:46| Visual Studio Code| 114.28 secondes| utilisateur: emna
+2026-03-10 15:43:50|2026-03-10 15:44:31| Visual Studio Code| 41.03 secondes| utilisateur: emna
+2026-03-10 15:43:49|2026-03-10 15:44:32| Visual Studio Code| 43.02 secondes| utilisateur: emna
+2026-03-10 15:43:49|2026-03-10 15:44:32| Visual Studio Code| 43.02 secondes| utilisateur: emna
+2026-03-10 15:44:35|2026-03-10 15:44:44| Visual Studio Code| 9.01 secondes| utilisateur: emna
+2026-03-10 15:44:35|2026-03-10 15:44:44| Visual Studio Code| 9.0 secondes| utilisateur: emna
+2026-03-10 15:44:35|2026-03-10 15:44:45| Visual Studio Code| 10.0 secondes| utilisateur: emna
+2026-03-11 10:59:50|2026-03-11 10:59:59| Application Système de Contrôle (Qt)| 9.14 secondes| utilisateur: emna
+2026-03-11 11:00:02|2026-03-11 11:00:07| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-11 11:00:10|2026-03-11 11:00:19| Visual Studio Code| 9.0 secondes| utilisateur: emna
+2026-03-11 11:00:26|2026-03-11 11:00:41| Controle Systéme Frontend| 15.19 secondes| utilisateur: emna
+2026-03-11 11:00:44|2026-03-11 11:00:57| Application Système de Contrôle (Qt)| 13.1 secondes| utilisateur: emna
+2026-03-11 11:00:59|2026-03-11 11:01:08| Controle Systéme Frontend| 8.41 secondes| utilisateur: emna
+2026-03-11 11:01:10|2026-03-11 11:01:18| Application Système de Contrôle (Qt)| 8.1 secondes| utilisateur: emna
+2026-03-11 11:01:21|2026-03-11 11:01:31| Application Système de Contrôle (Qt)| 10.0 secondes| utilisateur: emna
+2026-03-11 11:01:35|2026-03-11 11:02:01| Visual Studio Code| 26.28 secondes| utilisateur: emna
+2026-03-11 11:02:06|2026-03-11 11:05:19| Visual Studio Code| 192.17 secondes| utilisateur: emna
+2026-03-11 11:05:25|2026-03-11 11:06:14| Visual Studio Code| 49.03 secondes| utilisateur: emna
+2026-03-11 11:06:19|2026-03-11 11:07:24| Gestionnaire des tâches| 65.17 secondes| utilisateur: emna
+2026-03-11 11:18:17|2026-03-11 11:18:26| Visual Studio Code| 8.37 secondes| utilisateur: emna
+2026-03-11 11:18:35|2026-03-11 11:18:48| Controle Systéme Frontend| 13.17 secondes| utilisateur: emna
+2026-03-11 11:18:50|2026-03-11 11:19:02| Visual Studio Code| 11.28 secondes| utilisateur: emna
+2026-03-11 11:19:08|2026-03-11 11:19:19| Application Système de Contrôle (Qt)| 11.11 secondes| utilisateur: emna
+2026-03-11 11:19:21|2026-03-11 11:19:30| Visual Studio Code| 9.3 secondes| utilisateur: emna
+2026-03-11 11:19:37|2026-03-11 11:19:55| Application Système de Contrôle (Qt)| 17.24 secondes| utilisateur: emna
+2026-03-11 11:19:57|2026-03-11 11:25:58| Visual Studio Code| 361.4 secondes| utilisateur: emna
+2026-03-11 11:26:34|2026-03-11 11:26:42| Visual Studio Code| 8.16 secondes| utilisateur: emna
+2026-03-11 11:26:44|2026-03-11 11:26:51| Application Système de Contrôle (Qt)| 7.08 secondes| utilisateur: emna
+2026-03-11 11:26:54|2026-03-11 11:27:02| Application Système de Contrôle (Qt)| 8.01 secondes| utilisateur: emna
+2026-03-11 11:27:04|2026-03-11 11:27:10| Visual Studio Code| 6.17 secondes| utilisateur: emna
+2026-03-11 11:27:13|2026-03-11 11:27:25| bin| 12.13 secondes| utilisateur: emna
+2026-03-11 11:35:11|2026-03-11 11:35:18| Controle Systéme Frontend| 7.13 secondes| utilisateur: emna
+2026-03-11 11:35:24|2026-03-11 11:35:42| Application Système de Contrôle (Qt)| 18.1 secondes| utilisateur: emna
+2026-03-11 11:35:45|2026-03-11 11:36:01| Visual Studio Code| 16.17 secondes| utilisateur: emna
+2026-03-11 11:36:11|2026-03-11 11:36:26| Visual Studio Code| 15.01 secondes| utilisateur: emna
+2026-03-11 11:40:50|2026-03-11 11:41:00| Application Système de Contrôle (Qt)| 10.2 secondes| utilisateur: emna
+2026-03-11 11:41:00|2026-03-11 11:41:08| Controle Systéme Frontend| 7.18 secondes| utilisateur: emna
+2026-03-11 11:41:08|2026-03-11 11:41:16| Visual Studio Code| 8.24 secondes| utilisateur: emna
+2026-03-11 11:41:17|2026-03-11 11:41:27| C:\Windows\System32\cmd.exe| 10.15 secondes| utilisateur: emna
+2026-03-11 11:41:30|2026-03-11 11:41:41| Application Système de Contrôle (Qt)| 11.08 secondes| utilisateur: emna
+2026-03-11 11:41:42|2026-03-11 11:42:21| Visual Studio Code| 39.25 secondes| utilisateur: emna
+2026-03-11 11:42:30|2026-03-11 11:42:46| Visual Studio Code| 16.01 secondes| utilisateur: emna
+2026-03-11 11:43:18|2026-03-11 11:43:31| Application Système de Contrôle (Qt)| 13.09 secondes| utilisateur: emna
+2026-03-11 11:43:31|2026-03-11 11:43:41| Visual Studio Code| 9.24 secondes| utilisateur: emna
+2026-03-11 11:43:42|2026-03-11 11:43:47| Application Système de Contrôle (Qt)| 5.0 secondes| utilisateur: emna
+2026-03-11 11:43:47|2026-03-11 11:44:08| Visual Studio Code| 21.2 secondes| utilisateur: emna
+2026-03-11 11:44:11|2026-03-11 11:46:24| Visual Studio Code| 133.08 secondes| utilisateur: emna
+2026-03-11 11:46:24|2026-03-11 11:46:35| Application Système de Contrôle (Qt)| 11.17 secondes| utilisateur: emna
+2026-03-11 11:46:35|2026-03-11 11:47:20| Visual Studio Code| 45.23 secondes| utilisateur: emna
+2026-03-11 11:47:20|2026-03-11 11:47:31| Application Système de Contrôle (Qt)| 10.1 secondes| utilisateur: emna
+2026-03-11 11:47:37|2026-03-11 11:47:43| Application Système de Contrôle (Qt)| 6.15 secondes| utilisateur: emna
+2026-03-11 11:47:36|2026-03-11 11:47:44| Application Système de Contrôle (Qt)| 8.0 secondes| utilisateur: emna
+2026-03-11 11:47:44|2026-03-11 11:47:51| Visual Studio Code| 7.17 secondes| utilisateur: emna
+2026-03-11 11:47:43|2026-03-11 11:47:51| Visual Studio Code| 8.17 secondes| utilisateur: emna
+2026-03-11 11:47:53|2026-03-11 11:48:08| Application Système de Contrôle (Qt)| 15.25 secondes| utilisateur: emna
+2026-03-11 11:48:01|2026-03-11 11:48:08| Application Système de Contrôle (Qt)| 7.1 secondes| utilisateur: emna
+2026-03-11 11:47:59|2026-03-11 11:48:08| Application Système de Contrôle (Qt)| 9.11 secondes| utilisateur: emna
+2026-03-11 11:48:08|2026-03-11 11:49:29| Visual Studio Code| 81.24 secondes| utilisateur: emna
+2026-03-11 11:49:29|2026-03-11 11:49:46| Application Système de Contrôle (Qt)| 17.1 secondes| utilisateur: emna
+2026-03-11 11:49:51|2026-03-11 11:49:59| Application Système de Contrôle (Qt)| 8.09 secondes| utilisateur: emna
+2026-03-11 11:50:04|2026-03-11 12:00:13| Visual Studio Code| 608.57 secondes| utilisateur: emna
+2026-03-11 12:00:14|2026-03-11 12:00:22| Visual Studio Code| 8.0 secondes| utilisateur: emna
+2026-03-11 12:00:25|2026-03-11 12:03:17| Visual Studio Code| 172.1 secondes| utilisateur: emna
+2026-03-11 12:03:23|2026-03-11 12:03:56| Visual Studio Code| 33.02 secondes| utilisateur: emna
+2026-03-11 12:03:56|2026-03-11 12:04:06| Application Système de Contrôle (Qt)| 10.29 secondes| utilisateur: emna
+2026-03-11 12:04:08|2026-03-11 12:04:31| Visual Studio Code| 22.18 secondes| utilisateur: emna
+2026-03-11 12:04:08|2026-03-11 12:04:31| Visual Studio Code| 23.25 secondes| utilisateur: Lenovo
+2026-03-11 12:04:38|2026-03-11 12:04:57| Controle Systéme Frontend| 19.37 secondes| utilisateur: emna
+2026-03-11 12:04:38|2026-03-11 12:04:57| Controle Systéme Frontend| 19.14 secondes| utilisateur: Lenovo
+2026-03-11 12:04:57|2026-03-11 12:05:34| Visual Studio Code| 37.23 secondes| utilisateur: emna
+2026-03-11 12:04:57|2026-03-11 12:05:34| Visual Studio Code| 37.19 secondes| utilisateur: Lenovo
+2026-03-11 12:05:35|2026-03-11 12:05:40| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-11 12:05:35|2026-03-11 12:05:40| Visual Studio Code| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:05:44|2026-03-11 12:06:18| Visual Studio Code| 34.02 secondes| utilisateur: Lenovo
+2026-03-11 12:05:45|2026-03-11 12:06:19| Visual Studio Code| 34.02 secondes| utilisateur: emna
+2026-03-11 12:06:20|2026-03-11 12:06:30| Visual Studio Code| 10.01 secondes| utilisateur: emna
+2026-03-11 12:06:20|2026-03-11 12:06:30| Visual Studio Code| 10.0 secondes| utilisateur: Lenovo
+2026-03-11 12:06:31|2026-03-11 12:06:36| Visual Studio Code| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:06:36|2026-03-11 12:06:45| Application Système de Contrôle (Qt)| 9.11 secondes| utilisateur: emna
+2026-03-11 12:06:36|2026-03-11 12:06:46| Application Système de Contrôle (Qt)| 9.08 secondes| utilisateur: Lenovo
+2026-03-11 12:06:47|2026-03-11 12:06:53| Visual Studio Code| 6.25 secondes| utilisateur: Lenovo
+2026-03-11 12:06:47|2026-03-11 12:06:53| Visual Studio Code| 6.32 secondes| utilisateur: emna
+2026-03-11 12:06:46|2026-03-11 12:06:53| Visual Studio Code| 6.39 secondes| utilisateur: Lenovo
+2026-03-11 12:06:57|2026-03-11 12:07:13| Visual Studio Code| 16.01 secondes| utilisateur: emna
+
+2026-03-11 12:06:57|2026-03-11 12:07:13| Visual Studio Code| 16.01 secondes| utilisateur: Lenovo
+2026-03-11 12:07:19|2026-03-11 12:07:34| Application Système de Contrôle (Qt)| 15.11 secondes| utilisateur: Lenovo
+2026-03-11 12:07:19|2026-03-11 12:07:34| Application Système de Contrôle (Qt)| 15.17 secondes| utilisateur: emna
+2026-03-11 12:07:34|2026-03-11 12:07:40| Visual Studio Code| 6.32 secondes| utilisateur: Lenovo
+2026-03-11 12:07:34|2026-03-11 12:07:40| Visual Studio Code| 6.32 secondes| utilisateur: emna
+2026-03-11 12:07:40|2026-03-11 12:07:45| Application Système de Contrôle (Qt)| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:07:40|2026-03-11 12:07:45| Application Système de Contrôle (Qt)| 5.0 secondes| utilisateur: emna
+2026-03-11 12:07:40|2026-03-11 12:07:45| Application Système de Contrôle (Qt)| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:07:45|2026-03-11 12:11:42| Visual Studio Code| 236.36 secondes| utilisateur: emna
+2026-03-11 12:07:45|2026-03-11 12:11:42| Visual Studio Code| 236.46 secondes| utilisateur: Lenovo
+2026-03-11 12:07:47|2026-03-11 12:11:41| Visual Studio Code| 234.31 secondes| utilisateur: Lenovo
+2026-03-11 12:11:43|2026-03-11 12:11:48| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-11 12:11:43|2026-03-11 12:11:48| Visual Studio Code| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:11:52|2026-03-11 12:12:12| Application Système de Contrôle (Qt)| 20.5 secondes| utilisateur: Lenovo
+2026-03-11 12:11:53|2026-03-11 12:12:13| Application Système de Contrôle (Qt)| 20.1 secondes| utilisateur: emna
+2026-03-11 12:11:52|2026-03-11 12:12:13| Application Système de Contrôle (Qt)| 20.13 secondes| utilisateur: Lenovo
+2026-03-11 12:11:59|2026-03-11 12:12:13| Application Système de Contrôle (Qt)| 14.08 secondes| utilisateur: Lenovo
+2026-03-11 12:12:13|2026-03-11 12:15:29| Visual Studio Code| 196.32 secondes| utilisateur: emna
+2026-03-11 12:12:12|2026-03-11 12:15:30| Visual Studio Code| 197.31 secondes| utilisateur: Lenovo
+2026-03-11 12:12:15|2026-03-11 12:15:29| Visual Studio Code| 194.29 secondes| utilisateur: Lenovo
+2026-03-11 12:12:15|2026-03-11 12:15:30| Visual Studio Code| 195.33 secondes| utilisateur: Lenovo
+2026-03-11 12:15:30|2026-03-11 12:15:42| Application Système de Contrôle (Qt)| 12.09 secondes| utilisateur: Lenovo
+2026-03-11 12:15:30|2026-03-11 12:15:42| Application Système de Contrôle (Qt)| 12.11 secondes| utilisateur: emna
+2026-03-11 12:15:32|2026-03-11 12:15:42| Application Système de Contrôle (Qt)| 10.19 secondes| utilisateur: Lenovo
+2026-03-11 12:15:37|2026-03-11 12:15:42| Application Système de Contrôle (Qt)| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:15:32|2026-03-11 12:15:42| Application Système de Contrôle (Qt)| 10.11 secondes| utilisateur: Lenovo
+2026-03-11 12:15:42|2026-03-11 12:19:32| Visual Studio Code| 229.57 secondes| utilisateur: emna
+2026-03-11 12:19:33|2026-03-11 12:19:50| Visual Studio Code| 17.01 secondes| utilisateur: emna
+2026-03-11 12:15:42|2026-03-11 12:19:50| Visual Studio Code| 248.34 secondes| utilisateur: Lenovo
+2026-03-11 12:15:44|2026-03-11 12:19:50| Visual Studio Code| 246.32 secondes| utilisateur: Lenovo
+2026-03-11 12:15:44|2026-03-11 12:19:50| Visual Studio Code| 246.35 secondes| utilisateur: Lenovo
+2026-03-11 12:15:44|2026-03-11 12:19:51| Visual Studio Code| 246.32 secondes| utilisateur: Lenovo
+2026-03-11 12:19:52|2026-03-11 12:20:03| Profil 1 – Microsoft​ Edge| 10.7 secondes| utilisateur: Lenovo
+2026-03-11 12:19:52|2026-03-11 12:20:03| Profil 1 – Microsoft​ Edge| 10.9 secondes| utilisateur: emna
+2026-03-11 12:19:53|2026-03-11 12:20:03| Profil 1 – Microsoft​ Edge| 9.54 secondes| utilisateur: Lenovo
+2026-03-11 12:19:53|2026-03-11 12:20:03| Profil 1 – Microsoft​ Edge| 9.63 secondes| utilisateur: Lenovo
+2026-03-11 12:19:54|2026-03-11 12:20:03| Profil 1 – Microsoft​ Edge| 9.38 secondes| utilisateur: Lenovo
+2026-03-11 12:20:03|2026-03-11 12:20:10| Visual Studio Code| 7.34 secondes| utilisateur: Lenovo
+2026-03-11 12:20:03|2026-03-11 12:20:10| Visual Studio Code| 7.48 secondes| utilisateur: emna
+2026-03-11 12:20:10|2026-03-11 12:20:17| Profil 1 – Microsoft​ Edge| 6.84 secondes| utilisateur: Lenovo
+2026-03-11 12:20:11|2026-03-11 12:20:17| Profil 1 – Microsoft​ Edge| 6.65 secondes| utilisateur: emna
+2026-03-11 12:20:11|2026-03-11 12:20:17| Profil 1 – Microsoft​ Edge| 6.05 secondes| utilisateur: Lenovo
+2026-03-11 12:20:11|2026-03-11 12:20:17| Profil 1 – Microsoft​ Edge| 6.06 secondes| utilisateur: Lenovo
+2026-03-11 12:20:17|2026-03-11 12:20:47| Visual Studio Code| 29.66 secondes| utilisateur: Lenovo
+2026-03-11 12:20:17|2026-03-11 12:20:47| Visual Studio Code| 29.51 secondes| utilisateur: emna
+2026-03-11 12:20:21|2026-03-11 12:20:47| Visual Studio Code| 25.54 secondes| utilisateur: Lenovo
+2026-03-11 12:20:21|2026-03-11 12:20:47| Visual Studio Code| 25.49 secondes| utilisateur: Lenovo
+2026-03-11 12:20:21|2026-03-11 12:20:47| Visual Studio Code| 25.54 secondes| utilisateur: Lenovo
+2026-03-11 12:20:48|2026-03-11 12:21:28| Visual Studio Code| 40.03 secondes| utilisateur: emna
+2026-03-11 12:21:28|2026-03-11 12:21:43| Application Système de Contrôle (Qt)| 15.24 secondes| utilisateur: emna
+2026-03-11 12:21:37|2026-03-11 12:21:43| Application Système de Contrôle (Qt)| 6.2 secondes| utilisateur: Lenovo
+2026-03-11 12:21:43|2026-03-11 12:22:17| Visual Studio Code| 34.19 secondes| utilisateur: emna
+2026-03-11 12:21:45|2026-03-11 12:22:17| Visual Studio Code| 32.18 secondes| utilisateur: Lenovo
+2026-03-11 12:22:18|2026-03-11 12:22:38| Visual Studio Code| 20.01 secondes| utilisateur: emna
+2026-03-11 12:22:20|2026-03-11 12:22:38| Visual Studio Code| 18.01 secondes| utilisateur: Lenovo
+2026-03-11 12:22:39|2026-03-11 12:22:54| Visual Studio Code| 15.01 secondes| utilisateur: emna
+2026-03-11 12:22:55|2026-03-11 12:23:43| Visual Studio Code| 48.03 secondes| utilisateur: emna
+2026-03-11 12:23:43|2026-03-11 12:23:54| Application Système de Contrôle (Qt)| 10.3 secondes| utilisateur: emna
+2026-03-11 12:23:58|2026-03-11 12:24:08| Profil 1 – Microsoft​ Edge| 10.17 secondes| utilisateur: emna
+2026-03-11 12:23:58|2026-03-11 12:24:07| Profil 1 – Microsoft​ Edge| 9.2 secondes| utilisateur: Lenovo
+2026-03-11 12:24:10|2026-03-11 12:24:22| Application Système de Contrôle (Qt)| 12.09 secondes| utilisateur: emna
+2026-03-11 12:24:10|2026-03-11 12:24:22| Application Système de Contrôle (Qt)| 12.09 secondes| utilisateur: Lenovo
+2026-03-11 12:24:25|2026-03-11 12:25:19| Application Système de Contrôle (Qt)| 54.03 secondes| utilisateur: emna
+2026-03-11 12:24:26|2026-03-11 12:25:20| Application Système de Contrôle (Qt)| 54.03 secondes| utilisateur: Lenovo
+2026-03-11 12:25:22|2026-03-11 12:25:27| Profil 1 – Microsoft​ Edge| 5.0 secondes| utilisateur: emna
+2026-03-11 12:25:23|2026-03-11 12:25:28| Profil 1 – Microsoft​ Edge| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:25:27|2026-03-11 12:25:42| Visual Studio Code| 15.27 secondes| utilisateur: emna
+2026-03-11 12:25:30|2026-03-11 12:25:41| Visual Studio Code| 11.18 secondes| utilisateur: Lenovo
+2026-03-11 12:25:46|2026-03-11 12:28:18| Visual Studio Code| 151.09 secondes| utilisateur: emna
+2026-03-11 12:25:46|2026-03-11 12:28:18| Visual Studio Code| 152.09 secondes| utilisateur: Lenovo
+2026-03-11 12:28:19|2026-03-11 12:28:32| Visual Studio Code| 13.04 secondes| utilisateur: emna
+2026-03-11 12:28:23|2026-03-11 12:28:31| Visual Studio Code| 8.04 secondes| utilisateur: Lenovo
+2026-03-11 12:28:32|2026-03-11 12:28:43| Application Système de Contrôle (Qt)| 11.11 secondes| utilisateur: emna
+2026-03-11 12:28:33|2026-03-11 12:28:42| Application Système de Contrôle (Qt)| 9.09 secondes| utilisateur: Lenovo
+2026-03-11 12:28:48|2026-03-11 12:28:56| Profil 1 – Microsoft​ Edge| 8.15 secondes| utilisateur: emna
+2026-03-11 12:28:48|2026-03-11 12:28:56| Profil 1 – Microsoft​ Edge| 8.16 secondes| utilisateur: Lenovo
+2026-03-11 12:28:48|2026-03-11 12:28:56| Profil 1 – Microsoft​ Edge| 8.11 secondes| utilisateur: Lenovo
+2026-03-11 12:28:56|2026-03-11 12:29:02| Visual Studio Code| 6.18 secondes| utilisateur: emna
+2026-03-11 12:28:58|2026-03-11 12:29:03| Visual Studio Code| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:28:58|2026-03-11 12:29:03| Visual Studio Code| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:29:03|2026-03-11 12:29:11| Application Système de Contrôle (Qt)| 8.27 secondes| utilisateur: emna
+2026-03-11 12:29:05|2026-03-11 12:29:11| Application Système de Contrôle (Qt)| 6.12 secondes| utilisateur: Lenovo
+2026-03-11 12:29:05|2026-03-11 12:29:11| Application Système de Contrôle (Qt)| 6.11 secondes| utilisateur: Lenovo
+2026-03-11 12:29:11|2026-03-11 12:29:17| Profil 1 – Microsoft​ Edge| 5.02 secondes| utilisateur: emna
+2026-03-11 12:29:18|2026-03-11 12:29:25| Controle Systéme Frontend| 7.16 secondes| utilisateur: emna
+2026-03-11 12:29:17|2026-03-11 12:29:25| Controle Systéme Frontend| 8.14 secondes| utilisateur: Lenovo
+2026-03-11 12:29:17|2026-03-11 12:29:25| Controle Systéme Frontend| 8.15 secondes| utilisateur: Lenovo
+2026-03-11 12:29:27|2026-03-11 12:29:51| Visual Studio Code| 24.2 secondes| utilisateur: Lenovo
+2026-03-11 12:29:27|2026-03-11 12:29:51| Visual Studio Code| 24.23 secondes| utilisateur: Lenovo
+2026-03-11 12:29:25|2026-03-11 12:31:44| Visual Studio Code| 139.27 secondes| utilisateur: emna
+2026-03-11 12:29:54|2026-03-11 12:31:44| Visual Studio Code| 110.07 secondes| utilisateur: Lenovo
+2026-03-11 12:29:54|2026-03-11 12:31:45| Visual Studio Code| 110.1 secondes| utilisateur: Lenovo
+2026-03-11 12:31:45|2026-03-11 12:31:57| Visual Studio Code| 12.01 secondes| utilisateur: emna
+2026-03-11 12:31:48|2026-03-11 12:31:57| Visual Studio Code| 9.01 secondes| utilisateur: Lenovo
+2026-03-11 12:31:48|2026-03-11 12:31:57| Visual Studio Code| 9.01 secondes| utilisateur: Lenovo
+2026-03-11 12:31:59|2026-03-11 12:32:06| Visual Studio Code| 7.01 secondes| utilisateur: emna
+2026-03-11 12:32:00|2026-03-11 12:32:06| Visual Studio Code| 6.0 secondes| utilisateur: Lenovo
+2026-03-11 12:32:00|2026-03-11 12:32:06| Visual Studio Code| 6.0 secondes| utilisateur: Lenovo
+2026-03-11 12:32:06|2026-03-11 12:32:17| Application Système de Contrôle (Qt)| 11.1 secondes| utilisateur: emna
+2026-03-11 12:32:08|2026-03-11 12:32:17| Application Système de Contrôle (Qt)| 9.13 secondes| utilisateur: Lenovo
+2026-03-11 12:32:08|2026-03-11 12:32:17| Application Système de Contrôle (Qt)| 9.09 secondes| utilisateur: Lenovo
+2026-03-11 12:32:17|2026-03-11 12:32:23| Visual Studio Code| 6.22 secondes| utilisateur: emna
+2026-03-11 12:32:17|2026-03-11 12:32:23| Visual Studio Code| 6.23 secondes| utilisateur: Lenovo
+2026-03-11 12:32:23|2026-03-11 12:32:31| Application Système de Contrôle (Qt)| 7.1 secondes| utilisateur: emna
+2026-03-11 12:32:23|2026-03-11 12:32:30| Application Système de Contrôle (Qt)| 7.0 secondes| utilisateur: Lenovo
+2026-03-11 12:32:23|2026-03-11 12:32:30| Application Système de Contrôle (Qt)| 7.0 secondes| utilisateur: Lenovo
+2026-03-11 12:32:25|2026-03-11 12:32:30| Application Système de Contrôle (Qt)| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:32:31|2026-03-11 12:32:37| Profil 1 – Microsoft​ Edge| 6.18 secondes| utilisateur: emna
+2026-03-11 12:32:32|2026-03-11 12:32:37| Profil 1 – Microsoft​ Edge| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:32:32|2026-03-11 12:32:37| Profil 1 – Microsoft​ Edge| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:32:32|2026-03-11 12:32:37| Profil 1 – Microsoft​ Edge| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:32:39|2026-03-11 12:32:46| Application Système de Contrôle (Qt)| 7.18 secondes| utilisateur: emna
+2026-03-11 12:32:40|2026-03-11 12:32:46| Application Système de Contrôle (Qt)| 6.11 secondes| utilisateur: Lenovo
+2026-03-11 12:32:40|2026-03-11 12:32:46| Application Système de Contrôle (Qt)| 6.12 secondes| utilisateur: Lenovo
+2026-03-11 12:32:52|2026-03-11 12:33:37| Visual Studio Code| 45.24 secondes| utilisateur: emna
+2026-03-11 12:32:51|2026-03-11 12:33:38| Visual Studio Code| 46.19 secondes| utilisateur: Lenovo
+2026-03-11 12:32:51|2026-03-11 12:33:38| Visual Studio Code| 46.22 secondes| utilisateur: Lenovo
+2026-03-11 12:33:39|2026-03-11 12:35:54| Visual Studio Code| 135.08 secondes| utilisateur: emna
+2026-03-11 12:33:41|2026-03-11 12:35:55| Visual Studio Code| 134.09 secondes| utilisateur: Lenovo
+2026-03-11 12:33:41|2026-03-11 12:35:55| Visual Studio Code| 134.1 secondes| utilisateur: Lenovo
+2026-03-11 12:35:56|2026-03-11 12:36:08| Visual Studio Code| 12.01 secondes| utilisateur: emna
+2026-03-11 12:35:58|2026-03-11 12:36:09| Visual Studio Code| 11.01 secondes| utilisateur: Lenovo
+2026-03-11 12:35:58|2026-03-11 12:36:09| Visual Studio Code| 11.02 secondes| utilisateur: Lenovo
+2026-03-11 12:36:15|2026-03-11 12:36:26| Application Système de Contrôle (Qt)| 10.18 secondes| utilisateur: emna
+2026-03-11 12:36:16|2026-03-11 12:36:25| Application Système de Contrôle (Qt)| 9.08 secondes| utilisateur: Lenovo
+2026-03-11 12:36:16|2026-03-11 12:36:25| Application Système de Contrôle (Qt)| 9.07 secondes| utilisateur: Lenovo
+2026-03-11 12:36:32|2026-03-11 12:36:40| Application Système de Contrôle (Qt)| 8.01 secondes| utilisateur: emna
+2026-03-11 12:36:31|2026-03-11 12:36:40| Application Système de Contrôle (Qt)| 9.01 secondes| utilisateur: Lenovo
+2026-03-11 12:36:31|2026-03-11 12:36:40| Application Système de Contrôle (Qt)| 9.0 secondes| utilisateur: Lenovo
+2026-03-11 12:36:46|2026-03-11 12:37:02| Visual Studio Code| 16.16 secondes| utilisateur: emna
+2026-03-11 12:36:45|2026-03-11 12:37:01| Visual Studio Code| 16.18 secondes| utilisateur: Lenovo
+2026-03-11 12:36:45|2026-03-11 12:37:01| Visual Studio Code| 16.15 secondes| utilisateur: Lenovo
+2026-03-11 12:37:04|2026-03-11 12:37:09| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-11 12:37:04|2026-03-11 12:37:09| Visual Studio Code| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:37:19|2026-03-11 12:39:16| Visual Studio Code| 117.08 secondes| utilisateur: emna
+2026-03-11 12:37:19|2026-03-11 12:39:16| Visual Studio Code| 117.07 secondes| utilisateur: Lenovo
+2026-03-11 12:37:19|2026-03-11 12:39:16| Visual Studio Code| 117.07 secondes| utilisateur: Lenovo
+2026-03-11 12:39:21|2026-03-11 12:39:31| Visual Studio Code| 10.01 secondes| utilisateur: emna
+2026-03-11 12:39:21|2026-03-11 12:39:31| Visual Studio Code| 10.01 secondes| utilisateur: Lenovo
+2026-03-11 12:39:21|2026-03-11 12:39:31| Visual Studio Code| 10.0 secondes| utilisateur: Lenovo
+2026-03-11 12:39:31|2026-03-11 12:40:36| Profil 1 – Microsoft​ Edge| 65.25 secondes| utilisateur: emna
+2026-03-11 12:39:36|2026-03-11 12:40:36| Profil 1 – Microsoft​ Edge| 60.14 secondes| utilisateur: Lenovo
+2026-03-11 12:39:36|2026-03-11 12:40:36| Profil 1 – Microsoft​ Edge| 60.19 secondes| utilisateur: Lenovo
+2026-03-11 12:40:41|2026-03-11 12:42:33| Visual Studio Code| 111.26 secondes| utilisateur: emna
+2026-03-11 12:40:40|2026-03-11 12:42:32| Visual Studio Code| 112.26 secondes| utilisateur: Lenovo
+2026-03-11 12:40:40|2026-03-11 12:42:32| Visual Studio Code| 112.24 secondes| utilisateur: Lenovo
+2026-03-11 12:42:34|2026-03-11 12:42:41| Visual Studio Code| 7.0 secondes| utilisateur: emna
+2026-03-11 12:42:42|2026-03-11 12:42:49| Visual Studio Code| 7.0 secondes| utilisateur: emna
+2026-03-11 12:42:41|2026-03-11 12:42:49| Visual Studio Code| 8.0 secondes| utilisateur: Lenovo
+2026-03-11 12:42:41|2026-03-11 12:42:49| Visual Studio Code| 8.0 secondes| utilisateur: Lenovo
+2026-03-11 12:42:49|2026-03-11 12:43:00| Application Système de Contrôle (Qt)| 11.13 secondes| utilisateur: emna
+2026-03-11 12:42:51|2026-03-11 12:42:59| Application Système de Contrôle (Qt)| 8.09 secondes| utilisateur: Lenovo
+2026-03-11 12:42:51|2026-03-11 12:43:00| Application Système de Contrôle (Qt)| 8.11 secondes| utilisateur: Lenovo
+2026-03-11 12:43:00|2026-03-11 12:44:11| Visual Studio Code| 71.23 secondes| utilisateur: emna
+2026-03-11 12:43:02|2026-03-11 12:44:11| Visual Studio Code| 69.24 secondes| utilisateur: Lenovo
+2026-03-11 12:43:02|2026-03-11 12:44:11| Visual Studio Code| 69.22 secondes| utilisateur: Lenovo
+2026-03-11 12:44:13|2026-03-11 12:44:18| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-11 12:44:18|2026-03-11 12:44:23| Profil 1 – Microsoft​ Edge| 5.0 secondes| utilisateur: emna
+2026-03-11 12:44:23|2026-03-11 12:44:28| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-11 12:44:23|2026-03-11 12:44:28| Visual Studio Code| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:44:23|2026-03-11 12:44:28| Visual Studio Code| 5.0 secondes| utilisateur: Lenovo
+2026-03-11 12:44:48|2026-03-11 12:44:54| Visual Studio Code| 6.01 secondes| utilisateur: emna
+2026-03-11 12:44:48|2026-03-11 12:44:55| Visual Studio Code| 7.01 secondes| utilisateur: Lenovo
+2026-03-11 12:44:48|2026-03-11 12:44:55| Visual Studio Code| 7.01 secondes| utilisateur: Lenovo
+2026-03-11 12:44:59|2026-03-11 12:46:23| Visual Studio Code| 84.05 secondes| utilisateur: emna
+2026-03-11 12:44:59|2026-03-11 12:46:23| Visual Studio Code| 84.05 secondes| utilisateur: Lenovo
+2026-03-11 12:44:59|2026-03-11 12:46:23| Visual Studio Code| 84.05 secondes| utilisateur: Lenovo
+2026-03-11 12:46:26|2026-03-11 12:47:29| Gestionnaire des tâches| 62.31 secondes| utilisateur: emna
+2026-03-11 12:46:26|2026-03-11 12:47:29| Gestionnaire des tâches| 63.23 secondes| utilisateur: Lenovo
+2026-03-11 12:46:26|2026-03-11 12:47:29| Gestionnaire des tâches| 63.28 secondes| utilisateur: Lenovo
+2026-03-11 12:47:29|2026-03-11 12:47:34| Visual Studio Code| 5.0 secondes| utilisateur: emna
+2026-03-11 12:57:06|2026-03-11 12:57:13| Visual Studio Code| 7.37 secondes| utilisateur: Lenovo
+2026-03-11 12:59:09|2026-03-11 12:59:16| Profil 1 – Microsoft​ Edge| 7.15 secondes| utilisateur: Lenovo
+2026-03-11 12:59:21|2026-03-11 12:59:32| Controle Systéme Frontend| 10.34 secondes| utilisateur: Lenovo
