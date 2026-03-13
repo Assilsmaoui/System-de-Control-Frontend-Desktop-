@@ -22,14 +22,14 @@ class LoginViewQt(QWidget):
         bloc.setStyleSheet("""
             background: #fff;
             border-radius: 16px;
-            padding: 32px 32px 24px 32px;
+            padding: 32px 24px 24px 24px;
             min-width: 320px;
             max-width: 350px;
             box-shadow: 0 4px 24px rgba(0,0,0,0.08);
         """)
         bloc.setSizePolicy(QSizePolicy.Fixed, QSizePolicy.Fixed)
         form_layout = QVBoxLayout(bloc)
-        form_layout.setAlignment(Qt.AlignCenter)
+        form_layout.setAlignment(Qt.AlignTop)
         self.label = QLabel("Connexion utilisateur")
         self.label.setProperty('role', 'title')
         self.label.setAlignment(Qt.AlignCenter)
@@ -41,10 +41,11 @@ class LoginViewQt(QWidget):
         self.password_input.setPlaceholderText("Mot de passe")
         self.password_input.setEchoMode(QLineEdit.Password)
         form_layout.addWidget(self.password_input)
+        from PySide6.QtWidgets import QHBoxLayout
         self.login_btn = QPushButton("Se connecter")
-        self.login_btn.setStyleSheet("background: #e0e0e0; color: #222; border-radius: 8px; padding: 8px 20px; font-size: 15px; margin: 8px;")
+        self.login_btn.setStyleSheet("background: #e0e0e0; color: #222; border-radius: 8px; padding: 8px 2px ; font-size: 15px; margin: 8px 0 8px 0;")
         self.login_btn.clicked.connect(self.handle_login)
-        form_layout.addWidget(self.login_btn)
+        form_layout.addWidget(self.login_btn, alignment=Qt.AlignHCenter)
         main_layout.addStretch(1)
         main_layout.addWidget(bloc, alignment=Qt.AlignCenter)
         main_layout.addStretch(1)

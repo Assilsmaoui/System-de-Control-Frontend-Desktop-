@@ -6,7 +6,12 @@ from PySide6.QtGui import QAction
 from views.students_view import StudentsViewQt
 import sys
 
+
 class MainWindowQt(QMainWindow):
+    def on_notification_clicked(self):
+        from PySide6.QtWidgets import QMessageBox
+        QMessageBox.information(self, "Notifications", "Aucune notification à afficher.")
+
     def refresh_all(self):
         # Réinitialise l'application et revient à la page de login
         self.clear_layout()
@@ -22,6 +27,36 @@ class MainWindowQt(QMainWindow):
         self.current_view = None
         self.token = None
         self.username = None
+        # Ajout de l'icône de notification en haut à droite
+        from PySide6.QtWidgets import QToolBar, QLabel, QSizePolicy
+        from PySide6.QtGui import QIcon, QAction, QPixmap, QPainter, QColor, QFont
+        from PySide6.QtCore import Qt
+        toolbar = QToolBar()
+        toolbar.setMovable(False)
+        self.addToolBar(Qt.TopToolBarArea, toolbar)
+        # Spacer pour pousser l'icône à droite
+        spacer = QWidget()
+        spacer.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Preferred)
+        toolbar.addWidget(spacer)
+        # Icône cloche (utilise une icône système ou personnalisée)
+        icon = QIcon.fromTheme("bell")
+        if icon.isNull():
+            pixmap = QPixmap(32, 32)
+            pixmap.fill(Qt.transparent)
+            painter = QPainter(pixmap)
+            painter.setFont(QFont("Arial", 24))
+            painter.setPen(QColor("#222"))
+            painter.drawText(pixmap.rect(), Qt.AlignCenter, "🔔")
+            painter.end()
+            icon = QIcon(pixmap)
+        self.notification_action = QAction(icon, "Notifications", self)
+        self.notification_action.triggered.connect(self.on_notification_clicked)
+        toolbar.addAction(self.notification_action)
+        # Badge jaune pour le nombre de notifications non lues (optionnel)
+        self.badge_label = QLabel("")
+        self.badge_label.setStyleSheet("background: yellow; color: black; border-radius: 10px; font-weight: bold; padding: 2px 6px;")
+        self.badge_label.setVisible(False)
+        toolbar.addWidget(self.badge_label)
         self.setStyleSheet("""
             QWidget {
                 background: #f5f6fa;
@@ -129,7 +164,8 @@ class MainWindowQt(QMainWindow):
         # Bouton déconnexion
         logout_btn = QPushButton("Déconnecter")
         logout_btn.setStyleSheet("margin: 10px; font-size: 14px;")
-        logout_btn.clicked.connect(self.show_login_view)
+        from utils.relaunch import relaunch_app
+        logout_btn.clicked.connect(lambda: (self.close(), relaunch_app()))
         self.layout.addWidget(logout_btn)
         self.current_view = label
         def refresh_dashboard():
@@ -193,7 +229,8 @@ class MainWindowQt(QMainWindow):
         from PySide6.QtWidgets import QLabel, QPushButton
         import threading, sys, os, subprocess
         self.clear_layout()
-        label = QLabel("Bienvenue UTILISATEUR ! Vous êtes connecté à l'interface utilisateur.")
+        username = self.username or "Utilisateur"
+        label = QLabel(f"Bienvenue {username} ! Vous êtes connecté à l'interface utilisateur.")
         label.setStyleSheet("font-size: 18px; margin: 20px;")
         self.layout.addWidget(label)
         # Démarrer le logger automatiquement
@@ -206,34 +243,47 @@ class MainWindowQt(QMainWindow):
         # Bouton déconnexion
         logout_btn = QPushButton("Déconnecter")
         logout_btn.setStyleSheet("margin: 10px; font-size: 14px;")
-        def logout_and_stop_logger():
-            from services.auth_service import logout_user
-            import os, platform, subprocess
-            # Supprimer la variable d'environnement pour éviter tout envoi résiduel
-            if "APP_LOGGED_USER" in os.environ:
-                del os.environ["APP_LOGGED_USER"]
-            # Arrêter le logger proprement
-            if hasattr(self, 'logger_process') and self.logger_process:
-                pid = self.logger_process.pid
-                try:
-                    if platform.system() == 'Windows':
-                        subprocess.call(['taskkill', '/F', '/T', '/PID', str(pid)], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-                    else:
-                        self.logger_process.kill()
-                    self.logger_process.wait(timeout=5)
-                except Exception:
-                    pass
-                self.logger_process = None
-            # Appel à l'endpoint logout avec JWT
-            if hasattr(self, 'token') and self.token:
-                logout_user(self.token)
-            self.username = None
-            self.token = None
-            print('nom user : non trouvé')
-            self.show_login_view()
-        logout_btn.clicked.connect(logout_and_stop_logger)
+        logout_btn.clicked.connect(self.logout_and_stop_logger)
         self.layout.addWidget(logout_btn)
         self.current_view = label
+
+    def logout_and_stop_logger(self):
+        from utils.relaunch import relaunch_app
+        from services.auth_service import logout_user
+        import os, platform, subprocess
+        # Supprimer la variable d'environnement pour éviter tout envoi résiduel
+        if "APP_LOGGED_USER" in os.environ:
+            del os.environ["APP_LOGGED_USER"]
+        # Tuer tous les activity_logger.py sur le système
+        try:
+            if platform.system() == 'Windows':
+                subprocess.call('taskkill /F /IM python.exe /FI "WINDOWTITLE eq activity_logger.py*"', shell=True)
+                # Fallback: kill tous les python qui exécutent activity_logger.py
+                subprocess.call('wmic process where "CommandLine like \'%activity_logger.py%\'" call terminate', shell=True)
+            else:
+                subprocess.call(['pkill', '-f', 'activity_logger.py'])
+        except Exception:
+            pass
+        # Arrêter le logger proprement (processus enfant direct)
+        if hasattr(self, 'logger_process') and self.logger_process:
+            pid = self.logger_process.pid
+            try:
+                if platform.system() == 'Windows':
+                    subprocess.call(['taskkill', '/F', '/T', '/PID', str(pid)], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                else:
+                    self.logger_process.kill()
+                self.logger_process.wait(timeout=5)
+            except Exception:
+                pass
+            self.logger_process = None
+        # Appel à l'endpoint logout avec JWT
+        if hasattr(self, 'token') and self.token:
+            logout_user(self.token)
+        self.username = None
+        self.token = None
+        print('nom user : non trouvé')
+        self.close()
+        relaunch_app()
 
     def show_welcome(self):
         import platform

@@ -684,3 +684,79 @@
 2026-03-11 12:57:11 | auth.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/authpy  Controle Systéme Back  Visual Studio Code_20260311_125711.png
 2026-03-11 12:59:14 | Méthode de déconnexion JWT - Profil 1 – Microsoft​ Edge | screenshotsaa/Méthode de déconnexion JWT  Profil1  Microsoft Edge_20260311_125914.png
 2026-03-11 12:59:27 | Controle Systéme Frontend | screenshotsaa/Controle Systéme Frontend_20260311_125926.png
+2026-03-11 13:41:12 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260311_134112.png
+2026-03-11 13:41:27 | Méthode de déconnexion JWT - Profil 1 – Microsoft​ Edge | screenshotsaa/Méthode de déconnexion JWT  Profil1  Microsoft Edge_20260311_134126.png
+2026-03-11 13:41:39 | auth.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/authpy  Controle Systéme Back  Visual Studio Code_20260311_134139.png
+2026-03-13 12:02:22 | AdminDashboard et 1 page supplémentaire - Profil 1 – Microsoft​ Edge | screenshotsaa/AdminDashboard et 1 page supplémentaire  Profil1  Microsoft Edge_20260313_120222.png
+2026-03-13 12:02:51 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_120251.png
+2026-03-13 12:03:09 | tasks.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/taskspy  Controle Systéme Back  Visual Studio Code_20260313_120309.png
+2026-03-13 12:29:58 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_122958.png
+2026-03-13 12:36:08 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_123608.png
+2026-03-13 12:39:25 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_123925.png
+2026-03-13 12:39:35 | websocket_client.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/websocket_clientpy  Controle Systéme Frontend  Visual Studio Code_20260313_123934.png
+2026-03-13 12:41:03 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_124103.png
+2026-03-13 12:42:07 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_124207.png
+2026-03-13 12:45:38 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_124537.png
+2026-03-13 12:45:49 | websocket_client.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/websocket_clientpy  Controle Systéme Frontend  Visual Studio Code_20260313_124549.png
+2026-03-13 12:56:44 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_125644.png
+2026-03-13 13:04:58 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_130458.png
+2026-03-13 13:10:43 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260313_131043.png
+2026-03-13 13:12:09 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_131208.png
+2026-03-13 13:12:25 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260313_131225.png
+2026-03-13 13:13:44 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_131344.png
+2026-03-13 13:13:50 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_131350.png
+2026-03-13 13:13:52 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_131352.png
+2026-03-13 13:14:07 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260313_131407.png
+2026-03-13 13:15:52 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_131552.png
+2026-03-13 13:16:02 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260313_131602.png
+2026-03-13 13:16:25 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_131625.png
+2026-03-13 13:16:31 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_131631.png
+2026-03-13 13:16:33 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_131633.png
+2026-03-13 13:16:52 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260313_131652.png
+2026-03-13 13:48:08 | Je n’aime pas. | screenshotsaa/Je naime pas_20260313_134806.png
+2026-03-13 14:02:48 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260313_140248.png
+2026-03-13 14:09:05 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_140905.png
+2026-03-13 14:09:14 | login_view.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/login_viewpy  Controle Systéme Frontend  Visual Studio Code_20260313_140914.png
+2026-03-13 14:11:48 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_141148.png
+2026-03-13 14:19:44 | Recherche | screenshotsaa/Recherche_20260313_141943.png
+2026-03-13 14:20:00 | Outil Capture d’écran | screenshotsaa/Outil Capture décran_20260313_142000.png
+2026-03-13 14:20:25 | login_view.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/login_viewpy  Controle Systéme Frontend  Visual Studio Code_20260313_142025.png
+2026-03-13 14:23:29 | app_entry.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/app_entrypy  Controle Systéme Frontend  Visual Studio Code_20260313_142329.png
+2026-03-13 14:25:53 | login_view.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/login_viewpy  Controle Systéme Frontend  Visual Studio Code_20260313_142552.png
+2026-03-13 14:26:35 | login_view.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/login_viewpy  Controle Systéme Frontend  Visual Studio Code_20260313_142635.png
+2026-03-13 14:29:52 | Récupérer IDs utilisateur MongoDB et 1 page supplémentaire - Profil 1 – Microsoft​ Edge | screenshotsaa/Récupérer IDs utilisateur MongoDB et 1 page supplémentaire  Profil1  Microsoft Edge_20260313_142951.png
+2026-03-13 14:32:18 | login_view.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/login_viewpy  Controle Systéme Frontend  Visual Studio Code_20260313_143218.png
+2026-03-13 14:32:27 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_143227.png
+2026-03-13 14:32:42 | login_view.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/login_viewpy  Controle Systéme Frontend  Visual Studio Code_20260313_143242.png
+2026-03-13 14:36:08 | Récupérer IDs utilisateur MongoDB et 1 page supplémentaire - Profil 1 – Microsoft​ Edge | screenshotsaa/Récupérer IDs utilisateur MongoDB et 1 page supplémentaire  Profil1  Microsoft Edge_20260313_143608.png
+2026-03-13 14:36:43 | login_view.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/login_viewpy  Controle Systéme Frontend  Visual Studio Code_20260313_143642.png
+2026-03-13 14:36:51 | Récupérer IDs utilisateur MongoDB et 1 page supplémentaire - Profil 1 – Microsoft​ Edge | screenshotsaa/Récupérer IDs utilisateur MongoDB et 1 page supplémentaire  Profil1  Microsoft Edge_20260313_143651.png
+2026-03-13 14:37:04 | login_view.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/login_viewpy  Controle Systéme Frontend  Visual Studio Code_20260313_143704.png
+2026-03-13 14:37:54 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_143754.png
+2026-03-13 14:39:45 | login_view.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/login_viewpy  Controle Systéme Frontend  Visual Studio Code_20260313_143944.png
+2026-03-13 14:41:01 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_144101.png
+2026-03-13 14:41:18 | login_view.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/login_viewpy  Controle Systéme Frontend  Visual Studio Code_20260313_144117.png
+2026-03-13 14:41:56 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_144156.png
+2026-03-13 14:42:47 | login_view.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/login_viewpy  Controle Systéme Frontend  Visual Studio Code_20260313_144247.png
+2026-03-13 14:48:05 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_144805.png
+2026-03-13 14:48:19 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260313_144818.png
+2026-03-13 14:48:19 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260313_144819.png
+2026-03-13 14:50:35 | Nouvel onglet - Google Chrome | screenshotsaa/Nouvel onglet  Google Chrome_20260313_145034.png
+2026-03-13 14:51:07 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260313_145106.png
+2026-03-13 14:54:42 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_145442.png
+2026-03-13 14:55:02 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260313_145501.png
+2026-03-13 14:55:55 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_145555.png
+2026-03-13 14:56:10 | Récupérer IDs utilisateur MongoDB et 1 page supplémentaire - Profil 1 – Microsoft​ Edge | screenshotsaa/Récupérer IDs utilisateur MongoDB et 1 page supplémentaire  Profil1  Microsoft Edge_20260313_145610.png
+2026-03-13 14:56:11 | Récupérer IDs utilisateur MongoDB et 1 page supplémentaire - Profil 1 – Microsoft​ Edge | screenshotsaa/Récupérer IDs utilisateur MongoDB et 1 page supplémentaire  Profil1  Microsoft Edge_20260313_145610.png
+2026-03-13 14:56:25 | notifications_ws.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/notifications_wspy  Controle Systéme Back  Visual Studio Code_20260313_145625.png
+2026-03-13 14:57:16 | Nouvel onglet - Google Chrome | screenshotsaa/Nouvel onglet  Google Chrome_20260313_145714.png
+2026-03-13 15:00:38 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260313_150038.png
+2026-03-13 15:03:17 | System-de-Control-Frontend-Desktop-/services/auth_service.py at main · Assilsmaoui/System-de-Control-Frontend-Desktop- - Google Chrome | screenshotsaa/SystemdeControlFrontendDesktopservicesauth_servicepy at main  AssilsmaouiSystemdeControlFrontendDesktop  Google Chrome_20260313_150317.png
+2026-03-13 15:04:23 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260313_150423.png
+2026-03-13 15:06:18 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_150618.png
+2026-03-13 15:06:39 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_150639.png
+2026-03-13 15:06:54 | notifications_ws.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/notifications_wspy  Controle Systéme Back  Visual Studio Code_20260313_150654.png
+2026-03-13 15:07:29 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_150728.png
+2026-03-13 15:07:39 | user_schema.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/user_schemapy  Controle Systéme Back  Visual Studio Code_20260313_150739.png
+2026-03-13 15:14:23 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_151423.png
+2026-03-13 15:18:14 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_151814.png

@@ -38,9 +38,10 @@ def send_pointage(start, end=None):
 if __name__ == "__main__":
     START_TIME = datetime.now()
     take_screenshot("start")
-    # Le pointage de démarrage sera envoyé après authentification
+    # Lancement de l'app avec LoginWindow
+    from views.app_entry import run_app
     try:
-        run_app_qt()
+        run_app()
     finally:
         END_TIME = datetime.now()
         take_screenshot("fin")
