@@ -612,3 +612,90 @@ ma
 2026-03-13 15:13:54|2026-03-13 15:14:16| Visual Studio Code| 22.02 secondes| utilisateur: Lenovo
 2026-03-13 15:14:18|2026-03-13 15:14:25| Connexion utilisateur| 7.63 secondes| utilisateur: Lenovo
 2026-03-13 15:23:07|2026-03-13 15:23:12| Application Système de Contrôle (Qt)| 5.0 secondes| utilisateur: Lenovo
+2026-03-13 15:52:35|2026-03-13 15:52:42| Application Système de Contrôle (Qt)| 6.74 secondes| utilisateur: Lenovo
+2026-03-13 15:52:53|2026-03-13 15:53:34| Profil 1 – Microsoft​ Edge| 41.02 secondes| utilisateur: Lenovo
+2026-03-13 15:53:38|2026-03-13 15:53:46| Visual Studio Code| 7.26 secondes| utilisateur: Lenovo
+2026-03-14 12:48:19|2026-03-14 12:48:49| Application Système de Contrôle (Qt)| 30.14 secondes| utilisateur: Lenovo
+2026-03-14 12:48:51|2026-03-14 12:50:09| Visual Studio Code| 78.33 secondes| utilisateur: Lenovo
+2026-03-14 12:50:13|2026-03-14 12:50:36| Application Système de Contrôle (Qt)| 23.16 secondes| utilisateur: Lenovo
+2026-03-14 12:50:46|2026-03-14 12:51:00| Visual Studio Code| 14.29 secondes| utilisateur: Lenovo
+2026-03-14 12:51:05|2026-03-14 12:53:08| Visual Studio Code| 123.09 secondes| utilisateur: Lenovo
+2026-03-14 12:53:12|2026-03-14 12:53:20| Connexion utilisateur| 8.12 secondes| utilisateur: Lenovo
+2026-03-14 12:53:28|2026-03-14 12:54:05| Visual Studio Code| 36.31 secondes| utilisateur: Lenovo
+2026-03-14 12:54:08|2026-03-14 12:54:15| Visual Studio Code| 7.0 secondes| utilisateur: Lenovo
+2026-03-14 12:54:17|2026-03-14 12:54:24| Connexion utilisateur| 7.21 secondes| utilisateur: Lenovo
+2026-03-14 12:57:01|2026-03-14 12:57:53| Application Système de Contrôle (Qt)| 52.14 secondes| utilisateur: Lenovo
+2026-03-14 12:57:55|2026-03-14 12:59:18| Visual Studio Code| 83.39 secondes| utilisateur: Lenovo
+2026-03-14 12:59:48|2026-03-14 13:00:09| Visual Studio Code| 21.01 secondes| utilisateur: Lenovo
+2026-03-14 13:00:17|2026-03-14 13:01:21| Visual Studio Code| 64.06 secondes| utilisateur: Lenovo
+2026-03-14 13:01:23|2026-03-14 13:01:39| Profil 1 – Microsoft​ Edge| 16.62 secondes| utilisateur: Lenovo
+2026-03-14 13:01:51|2026-03-14 13:01:57| C:\Windows\System32\cmd.exe| 6.26 secondes| utilisateur: Lenovo
+2026-03-14 13:01:59|2026-03-14 13:02:30| Visual Studio Code| 31.25 secondes| utilisateur: Lenovo
+2026-03-14 13:02:56|2026-03-14 13:03:09| MongoDB Compass| 12.37 secondes| utilisateur: Lenovo
+2026-03-14 13:03:11|2026-03-14 13:03:27| localhost:27017/university.users| 16.22 secondes| utilisateur: Lenovo
+2026-03-14 13:03:30|2026-03-14 13:03:48| Profil 1 – Microsoft​ Edge| 18.34 secondes| utilisateur: Lenovo
+2026-03-14 13:03:50|2026-03-14 13:05:23| Visual Studio Code| 92.48 secondes| utilisateur: Lenovo
+2026-03-14 13:05:25|2026-03-14 13:05:39| Profil 1 – Microsoft​ Edge| 14.34 secondes| utilisateur: Lenovo
+2026-03-14 13:05:43|2026-03-14 13:05:53| localhost:27017/university.tasks| 9.34 secondes| utilisateur: Lenovo
+2026-03-14 13:05:55|2026-03-14 13:06:57| localhost:27017/university.users| 62.3 secondes| utilisateur: Lenovo
+2026-03-14 13:06:59|2026-03-14 13:07:44| Profil 1 – Microsoft​ Edge| 44.28 secondes| utilisateur: Lenovo
+2026-03-14 13:07:47|2026-03-14 13:08:57| localhost:27017/university.tasks| 70.44 secondes| utilisateur: Lenovo
+2026-03-14 13:08:59|2026-03-14 13:14:21| Visual Studio Code| 321.45 secondes| utilisateur: Lenovo
+2026-03-14 13:14:23|2026-03-14 13:14:32| Connexion utilisateur| 9.19 secondes| utilisateur: Lenovo
+2026-03-14 13:59:14|2026-03-14 13:59:22| Application Système de Contrôle (Qt)| 8.1 secondes| utilisateur: Lenovo
+2026-03-14 13:59:30|2026-03-14 13:59:35| Outil Capture d’écran| 5.0 secondes| utilisateur: Lenovo
+2026-03-14 13:59:42|2026-03-14 14:03:14| Visual Studio Code| 211.34 secondes| utilisateur: Lenovo
+2026-03-14 14:03:17|2026-03-14 14:03:25| Visual Studio Code| 8.01 secondes| utilisateur: Lenovo
+2026-03-14 14:03:27|2026-03-14 14:03:32| Connexion utilisateur| 5.0 secondes| utilisateur: Lenovo
+2026-03-14 14:14:06|2026-03-14 14:14:15| Application Système de Contrôle (Qt)| 9.09 secondes| utilisateur: Lenovo
+2026-03-14 14:15:58|2026-03-14 14:16:08| Application Système de Contrôle (Qt)| 10.09 secondes| utilisateur: Lenovo
+2026-03-14 14:16:10|2026-03-14 14:16:15| Visual Studio Code| 5.0 secondes| utilisateur: Lenovo
+2026-03-14 14:22:47|2026-03-14 14:22:55| Application Système de Contrôle (Qt)| 8.1 secondes| utilisateur: Lenovo
+2026-03-14 14:23:03|2026-03-14 14:23:37| Visual Studio Code| 33.33 secondes| utilisateur: Lenovo
+2026-03-14 14:23:57|2026-03-14 14:24:11| Application Système de Contrôle (Qt)| 14.09 secondes| utilisateur: Lenovo
+2026-03-14 14:24:07|2026-03-14 14:24:12| Application Système de Contrôle (Qt)| 5.0 secondes| utilisateur: Lenovo
+2026-03-14 14:24:14|2026-03-14 14:25:18| Visual Studio Code| 64.25 secondes| utilisateur: Lenovo
+2026-03-14 14:25:40|2026-03-14 14:25:48| Application Système de Contrôle (Qt)| 8.12 secondes| utilisateur: Lenovo
+2026-03-14 14:30:01|2026-03-14 14:30:08| Application Système de Contrôle (Qt)| 7.12 secondes| utilisateur: Lenovo
+2026-03-14 14:30:10|2026-03-14 14:31:01| Visual Studio Code| 51.22 secondes| utilisateur: Lenovo
+2026-03-14 14:31:03|2026-03-14 14:31:09| Profil 1 – Microsoft​ Edge| 6.29 secondes| utilisateur: Lenovo
+2026-03-14 14:31:12|2026-03-14 14:32:02| Visual Studio Code| 50.3 secondes| utilisateur: Lenovo
+2026-03-14 14:32:04|2026-03-14 14:32:10| Connexion utilisateur| 6.08 secondes| utilisateur: Lenovo
+2026-03-14 14:56:54|2026-03-14 14:56:59| Application Système de Contrôle (Qt)| 5.0 secondes| utilisateur: Lenovo
+2026-03-14 14:57:02|2026-03-14 14:57:07| Visual Studio Code| 5.0 secondes| utilisateur: Lenovo
+2026-03-14 14:57:09|2026-03-14 14:57:17| Connexion utilisateur| 8.19 secondes| utilisateur: Lenovo
+2026-03-14 14:57:19|2026-03-14 14:58:19| Application Système de Contrôle (Qt)| 60.2 secondes| utilisateur: Lenovo
+2026-03-14 14:57:17|2026-03-14 14:58:19| Application Système de Contrôle (Qt)| 62.23 secondes| utilisateur: Lenovo
+2026-03-14 14:58:21|2026-03-14 14:58:56| Visual Studio Code| 35.24 secondes| utilisateur: Lenovo
+2026-03-14 14:58:21|2026-03-14 14:58:56| Visual Studio Code| 35.34 secondes| utilisateur: Lenovo
+2026-03-14 15:09:26|2026-03-14 15:09:34| Application Système de Contrôle (Qt)| 8.09 secondes| utilisateur: Lenovo
+2026-03-14 15:09:36|2026-03-14 15:10:41| Profil 1 – Microsoft​ Edge| 65.32 secondes| utilisateur: Lenovo
+2026-03-14 15:10:43|2026-03-14 15:10:51| localhost:27017/university.tasks| 7.38 secondes| utilisateur: Lenovo
+2026-03-14 15:10:53|2026-03-14 15:11:08| Profil 1 – Microsoft​ Edge| 15.33 secondes| utilisateur: Lenovo
+2026-03-14 15:11:21|2026-03-14 15:11:58| Visual Studio Code| 36.19 secondes| utilisateur: Lenovo
+2026-03-14 15:12:00|2026-03-14 15:12:22| Application Système de Contrôle (Qt)| 22.11 secondes| utilisateur: Lenovo
+2026-03-14 15:12:24|2026-03-14 15:21:56| Visual Studio Code| 571.73 secondes| utilisateur: Lenovo
+2026-03-14 15:43:00|2026-03-14 15:43:13| Application Système de Contrôle (Qt)| 13.11 secondes| utilisateur: Lenovo
+2026-03-14 15:43:15|2026-03-14 15:43:34| Visual Studio Code| 18.22 secondes| utilisateur: Lenovo
+2026-03-14 15:43:37|2026-03-14 15:44:28| Visual Studio Code| 51.06 secondes| utilisateur: Lenovo
+2026-03-14 15:44:36|2026-03-14 15:44:42| Visual Studio Code| 6.0 secondes| utilisateur: Lenovo
+2026-03-14 15:44:44|2026-03-14 15:44:51| Connexion utilisateur| 7.07 secondes| utilisateur: Lenovo
+2026-03-14 15:44:51|2026-03-14 15:45:45| Application Système de Contrôle (Qt)| 54.3 secondes| utilisateur: Lenovo
+2026-03-14 15:44:53|2026-03-14 15:45:45| Application Système de Contrôle (Qt)| 52.12 secondes| utilisateur: Lenovo
+2026-03-14 15:45:47|2026-03-14 15:46:33| Visual Studio Code| 46.21 secondes| utilisateur: Lenovo
+2026-03-14 15:45:47|2026-03-14 15:46:33| Visual Studio Code| 46.23 secondes| utilisateur: Lenovo
+2026-03-14 15:47:16|2026-03-14 15:47:31| Application Système de Contrôle (Qt)| 15.49 secondes| utilisateur: Lenovo
+2026-03-14 15:47:33|2026-03-14 15:47:40| Recherche| 6.45 secondes| utilisateur: Lenovo
+2026-03-14 15:47:57|2026-03-14 15:48:48| Visual Studio Code| 51.21 secondes| utilisateur: Lenovo
+2026-03-14 15:48:51|2026-03-14 15:48:57| Visual Studio Code| 5.0 secondes| utilisateur: Lenovo
+2026-03-14 15:48:59|2026-03-14 15:49:05| Connexion utilisateur| 6.07 secondes| utilisateur: Lenovo
+2026-03-14 15:49:07|2026-03-14 15:49:32| Application Système de Contrôle (Qt)| 25.1 secondes| utilisateur: Lenovo
+2026-03-14 15:49:04|2026-03-14 15:49:35| Application Système de Contrôle (Qt)| 31.12 secondes| utilisateur: Lenovo
+2026-03-14 15:49:44|2026-03-14 15:51:26| Visual Studio Code| 101.26 secondes| utilisateur: Lenovo
+2026-03-14 15:52:43|2026-03-14 15:52:49| Application Système de Contrôle (Qt)| 6.16 secondes| utilisateur: Lenovo
+2026-03-14 15:52:55|2026-03-14 15:53:05| Connexion utilisateur| 9.08 secondes| utilisateur: Lenovo
+2026-03-14 15:53:04|2026-03-14 15:53:21| Application Système de Contrôle (Qt)| 17.11 secondes| utilisateur: Lenovo
+2026-03-14 15:53:07|2026-03-14 15:53:22| Application Système de Contrôle (Qt)| 15.09 secondes| utilisateur: Lenovo
+2026-03-14 15:53:29|2026-03-14 15:54:18| Visual Studio Code| 48.39 secondes| utilisateur: Lenovo
+2026-03-14 15:53:30|2026-03-14 15:54:18| Visual Studio Code| 48.28 secondes| utilisateur: Lenovo
+2026-03-14 15:55:14|2026-03-14 15:55:26| Application Système de Contrôle (Qt)| 11.68 secondes| utilisateur: Lenovo

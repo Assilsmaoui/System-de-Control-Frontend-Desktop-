@@ -760,3 +760,99 @@
 2026-03-13 15:07:39 | user_schema.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/user_schemapy  Controle Systéme Back  Visual Studio Code_20260313_150739.png
 2026-03-13 15:14:23 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260313_151423.png
 2026-03-13 15:18:14 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_151814.png
+2026-03-13 15:52:40 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260313_155240.png
+2026-03-13 15:52:58 | AdminDashboard et 1 page supplémentaire - Profil 1 – Microsoft​ Edge | screenshotsaa/AdminDashboard et 1 page supplémentaire  Profil1  Microsoft Edge_20260313_155258.png
+2026-03-13 15:53:44 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260313_155343.png
+2026-03-14 12:48:24 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_124824.png
+2026-03-14 12:48:56 | user_schema.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/user_schemapy  Controle Systéme Back  Visual Studio Code_20260314_124856.png
+2026-03-14 12:50:18 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_125018.png
+2026-03-14 12:50:51 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_125051.png
+2026-03-14 12:53:17 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260314_125317.png
+2026-03-14 12:53:34 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_125333.png
+2026-03-14 12:54:22 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260314_125422.png
+2026-03-14 12:54:30 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_125430.png
+2026-03-14 12:54:32 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_125431.png
+2026-03-14 12:57:06 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_125706.png
+2026-03-14 12:58:00 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_125800.png
+2026-03-14 13:01:28 | Nouvel onglet - Profil 1 – Microsoft​ Edge | screenshotsaa/Nouvel onglet  Profil1  Microsoft Edge_20260314_130128.png
+2026-03-14 13:01:56 | C:\Windows\System32\cmd.exe | screenshotsaa/CWindowsSystem32cmdexe_20260314_130156.png
+2026-03-14 13:02:04 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_130204.png
+2026-03-14 13:03:02 | MongoDB Compass | screenshotsaa/MongoDB Compass_20260314_130301.png
+2026-03-14 13:03:16 | MongoDB Compass - localhost:27017/university.users | screenshotsaa/MongoDB Compass  localhost27017universityusers_20260314_130316.png
+2026-03-14 13:03:35 | FastAPI - Swagger UI - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI  Profil1  Microsoft Edge_20260314_130335.png
+2026-03-14 13:03:56 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_130355.png
+2026-03-14 13:05:30 | FastAPI - Swagger UI - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI  Profil1  Microsoft Edge_20260314_130530.png
+2026-03-14 13:05:49 | MongoDB Compass - localhost:27017/university.tasks | screenshotsaa/MongoDB Compass  localhost27017universitytasks_20260314_130548.png
+2026-03-14 13:06:00 | MongoDB Compass - localhost:27017/university.users | screenshotsaa/MongoDB Compass  localhost27017universityusers_20260314_130600.png
+2026-03-14 13:07:04 | FastAPI - Swagger UI - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI  Profil1  Microsoft Edge_20260314_130704.png
+2026-03-14 13:07:52 | MongoDB Compass - localhost:27017/university.tasks | screenshotsaa/MongoDB Compass  localhost27017universitytasks_20260314_130752.png
+2026-03-14 13:09:04 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_130904.png
+2026-03-14 13:14:28 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260314_131428.png
+2026-03-14 13:14:37 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_131437.png
+2026-03-14 13:14:39 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_131439.png
+2026-03-14 13:21:16 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_132115.png
+2026-03-14 13:54:13 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_135413.png
+2026-03-14 13:59:19 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_135919.png
+2026-03-14 13:59:48 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_135947.png
+2026-03-14 14:03:37 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_140337.png
+2026-03-14 14:03:39 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_140339.png
+2026-03-14 14:14:11 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_141411.png
+2026-03-14 14:14:23 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_141422.png
+2026-03-14 14:16:03 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_141603.png
+2026-03-14 14:19:28 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_141928.png
+2026-03-14 14:21:52 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_142152.png
+2026-03-14 14:22:52 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_142252.png
+2026-03-14 14:23:09 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_142308.png
+2026-03-14 14:24:02 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_142402.png
+2026-03-14 14:24:19 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_142418.png
+2026-03-14 14:24:19 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_142419.png
+2026-03-14 14:25:45 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_142545.png
+2026-03-14 14:25:56 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_142556.png
+2026-03-14 14:30:06 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_143006.png
+2026-03-14 14:30:15 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_143015.png
+2026-03-14 14:31:08 | FastAPI - Swagger UI - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI  Profil1  Microsoft Edge_20260314_143108.png
+2026-03-14 14:31:17 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_143117.png
+2026-03-14 14:32:09 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260314_143209.png
+2026-03-14 14:32:15 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_143215.png
+2026-03-14 14:39:17 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_143917.png
+2026-03-14 14:54:13 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_145412.png
+2026-03-14 14:57:14 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260314_145714.png
+2026-03-14 14:57:22 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_145722.png
+2026-03-14 14:57:24 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_145724.png
+2026-03-14 14:58:26 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_145826.png
+2026-03-14 14:58:26 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_145826.png
+2026-03-14 15:09:31 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_150931.png
+2026-03-14 15:09:41 | FastAPI - Swagger UI - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI  Profil1  Microsoft Edge_20260314_150941.png
+2026-03-14 15:10:49 | MongoDB Compass - localhost:27017/university.tasks | screenshotsaa/MongoDB Compass  localhost27017universitytasks_20260314_151048.png
+2026-03-14 15:10:58 | FastAPI - Swagger UI - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI  Profil1  Microsoft Edge_20260314_151058.png
+2026-03-14 15:11:27 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_151126.png
+2026-03-14 15:12:05 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_151205.png
+2026-03-14 15:12:29 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_151229.png
+2026-03-14 15:43:05 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_154305.png
+2026-03-14 15:43:20 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_154320.png
+2026-03-14 15:44:49 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260314_154449.png
+2026-03-14 15:44:56 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_154456.png
+2026-03-14 15:44:58 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_154458.png
+2026-03-14 15:45:52 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_154552.png
+2026-03-14 15:45:52 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_154552.png
+2026-03-14 15:46:40 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_154640.png
+2026-03-14 15:46:41 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_154641.png
+2026-03-14 15:47:21 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_154721.png
+2026-03-14 15:47:39 | Recherche | screenshotsaa/Recherche_20260314_154738.png
+2026-03-14 15:48:02 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_154802.png
+2026-03-14 15:49:04 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260314_154904.png
+2026-03-14 15:49:09 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_154909.png
+2026-03-14 15:49:12 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_154912.png
+2026-03-14 15:49:50 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_154949.png
+2026-03-14 15:49:50 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_154950.png
+2026-03-14 15:51:49 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_155148.png
+2026-03-14 15:52:48 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_155248.png
+2026-03-14 15:53:01 | Connexion utilisateur | screenshotsaa/Connexion utilisateur_20260314_155300.png
+2026-03-14 15:53:09 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_155309.png
+2026-03-14 15:53:12 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_155312.png
+2026-03-14 15:53:35 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_155334.png
+2026-03-14 15:53:35 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_155335.png
+2026-03-14 15:55:20 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_155519.png
+2026-03-14 15:55:33 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_155533.png
+2026-03-14 15:57:02 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_155702.png
+2026-03-14 15:57:41 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_155740.png

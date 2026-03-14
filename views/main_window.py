@@ -4,10 +4,121 @@ from PySide6.QtWidgets import QPushButton, QListWidgetItem
 from services.auth_service import logout_user
 from PySide6.QtGui import QAction
 from views.students_view import StudentsViewQt
-import sys
-
 
 class MainWindowQt(QMainWindow):
+    def show_user_tasks_view(self):
+        from PySide6.QtWidgets import QTableWidget, QTableWidgetItem, QPushButton, QLabel, QHeaderView
+        import requests
+        self.clear_layout()
+        user_id = getattr(self, 'user_id', None)
+        if not user_id or str(user_id) == "None":
+            label = QLabel("Aucun utilisateur connecté.")
+            self.layout.addWidget(label)
+            logout_btn = QPushButton("Déconnecter")
+            logout_btn.setStyleSheet("margin: 10px; font-size: 14px;")
+            logout_btn.clicked.connect(self.logout_and_stop_logger)
+            self.layout.addWidget(logout_btn)
+            self.current_view = logout_btn
+            return
+        label = QLabel("Liste des tâches")
+        label.setProperty('role', 'title')
+        self.layout.addWidget(label)
+        table = QTableWidget()
+        table.setColumnCount(6)
+        table.setHorizontalHeaderLabels(["Titre", "Description", "Priorité", "Début", "Fin", "Statut"])
+        table.setStyleSheet("""
+            QTableWidget {
+                background: #fff;
+                border-radius: 12px;
+                font-size: 16px;
+                margin: 16px 0;
+            }
+            QHeaderView::section {
+                background: #e0e0e0;
+                color: #222;
+                font-weight: bold;
+                font-size: 17px;
+                border-radius: 8px;
+                padding: 8px;
+            }
+            QTableWidgetItem {
+                padding: 8px;
+            }
+        """
+        )
+        table.setMinimumHeight(250)
+        table.horizontalHeader().setSectionResizeMode(QHeaderView.Stretch)
+        from PySide6.QtCore import Qt
+        table.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOn)
+        table.horizontalHeader().setSectionsMovable(True)
+        endpoint = f"http://localhost:8000/tasks/user/{user_id}"
+        try:
+            resp = requests.get(endpoint)
+            if resp.status_code == 200:
+                tasks = resp.json()
+                if isinstance(tasks, list) and tasks:
+                    table.setRowCount(len(tasks))
+                    for row, task in enumerate(tasks):
+                        table.setItem(row, 0, QTableWidgetItem(task.get('title', '')))
+                        table.setItem(row, 1, QTableWidgetItem(task.get('description', '')))
+                        table.setItem(row, 2, QTableWidgetItem(str(task.get('priority', ''))))
+                        table.setItem(row, 3, QTableWidgetItem(task.get('start_date', '')))
+                        table.setItem(row, 4, QTableWidgetItem(task.get('end_date', '')))
+                        table.setItem(row, 5, QTableWidgetItem(task.get('status', '')))
+                else:
+                    table.setRowCount(1)
+                    table.setItem(0, 0, QTableWidgetItem("Aucune tâche trouvée."))
+                    for col in range(1, 6):
+                        table.setItem(0, col, QTableWidgetItem(""))
+            else:
+                table.setRowCount(1)
+                table.setItem(0, 0, QTableWidgetItem(f"Erreur lors de la récupération des tâches : {resp.status_code}"))
+                for col in range(1, 6):
+                    table.setItem(0, col, QTableWidgetItem(""))
+        except Exception as e:
+            table.setRowCount(1)
+            table.setItem(0, 0, QTableWidgetItem(f"Erreur de connexion à l'API : {e}"))
+            for col in range(1, 6):
+                table.setItem(0, col, QTableWidgetItem(""))
+        self.layout.addWidget(table)
+        logout_btn = QPushButton("Déconnecter")
+        logout_btn.setStyleSheet("margin: 10px; font-size: 14px;")
+        logout_btn.clicked.connect(self.logout_and_stop_logger)
+        self.layout.addWidget(logout_btn)
+        self.current_view = table
+    def start_notification_ws(self, user_id):
+        import threading
+        import websocket
+        import json
+        def ws_run():
+            ws_url = f"ws://localhost:8000/ws/notifications/{user_id}"
+            def on_message(ws, message):
+                notif = json.loads(message)
+                print(f"Notification reçue: {notif}")
+                self.notifications.append(notif)
+                self.update_notification_badge()
+                # Rafraîchir la vue des tâches si elle est affichée
+                if hasattr(self, 'current_view') and isinstance(self.current_view, QTableWidget):
+                    self.show_user_tasks_view()
+                # Affichage popup Qt (notification)
+                from PySide6.QtWidgets import QMessageBox
+                msg = notif.get('message', str(notif))
+                QMessageBox.information(self, "Notification", msg)
+            ws = websocket.WebSocketApp(ws_url, on_message=on_message)
+            ws.run_forever()
+        self.notifications = []
+        self.update_notification_badge()
+        self.ws_thread = threading.Thread(target=ws_run, daemon=True)
+        self.ws_thread.start()
+
+    def update_notification_badge(self):
+        count = len(self.notifications)
+        if count > 0:
+            self.badge_label.setText(str(count))
+            self.badge_label.setVisible(True)
+        else:
+            self.badge_label.setVisible(False)
+
     def on_notification_clicked(self):
         from PySide6.QtWidgets import QMessageBox
         QMessageBox.information(self, "Notifications", "Aucune notification à afficher.")
@@ -102,16 +213,17 @@ class MainWindowQt(QMainWindow):
     def create_menu(self):
         menubar = self.menuBar()
         vues_menu = menubar.addMenu("Vues")
+        
         accueil_action = QAction("Accueil", self)
-        accueil_action.triggered.connect(self.show_welcome)
+        accueil_action.triggered.connect(self.show_user_view)
         vues_menu.addAction(accueil_action)
-        login_action = QAction("Login", self)
-        login_action.triggered.connect(self.show_login_view)
-        vues_menu.addAction(login_action)
-        students_action = QAction("Étudiants", self)
-        students_action.triggered.connect(self.show_students_view)
-        vues_menu.addAction(students_action)
+        # Suppression des actions 'Login' et 'Étudiants' du menu
+        # Action pour afficher les tâches utilisateur
+        tasks_action = QAction("Tâches utilisateur", self)
+        tasks_action.triggered.connect(self.show_user_tasks_view)
+        vues_menu.addAction(tasks_action)
         # Ajoute ici d'autres interfaces
+        # ...existing code...
     def show_login_view(self):
         from views.login_view import LoginViewQt
         self.clear_layout()
@@ -120,18 +232,37 @@ class MainWindowQt(QMainWindow):
         self.current_view = login_view
 
     def handle_login_success(self, result):
-        # result contient role, token, username, error
+        # result contient role, token, username, error, user_id (ObjectId MongoDB)
+        print("Résultat login:", result)
+        import pprint
+        pprint.pprint(result)
+        # Affichage du token décodé pour debug
+        token = result.get('token')
+        if token:
+            try:
+                import jwt
+                decoded = jwt.decode(token, options={"verify_signature": False})
+                print("Token décodé:")
+                pprint.pprint(decoded)
+            except Exception as e:
+                print(f"Erreur décodage JWT: {e}")
         if result.get('error'):
             print("Erreur login:", result['error'])
             return
         self.token = result.get('token')
         self.username = result.get('username')
-        print(f"Utilisateur connecté: {self.username}")
+        self.user_id = result.get('user_id')
+        print(f"Utilisateur connecté: {self.username} (user_id: {self.user_id})")
         role = result.get('role', '')
         if role == "admin":
             self.show_admin_view()
         else:
             self.show_user_view()
+            # Démarrer le WebSocket notifications pour l'utilisateur
+            if self.user_id:
+                self.start_notification_ws(self.user_id)
+            else:
+                print("user_id manquant, WebSocket non démarré")
 
     def show_admin_view(self):
         from PySide6.QtWidgets import QLabel, QListWidget, QListWidgetItem, QPushButton, QHBoxLayout, QVBoxLayout, QFrame
@@ -286,11 +417,10 @@ class MainWindowQt(QMainWindow):
         relaunch_app()
 
     def show_welcome(self):
-        import platform
-        from PySide6.QtWidgets import QPushButton
+        from PySide6.QtWidgets import QLabel, QPushButton
         self.clear_layout()
-        system = platform.system()
-        label = QLabel(f"Bienvenue dans l'application Système de Contrôle (Qt)\nSystème utilisé : {system}")
+        username = self.username or "Utilisateur"
+        label = QLabel(f"Bienvenue {username} ! Vous êtes connecté à l'interface utilisateur.")
         label.setStyleSheet("font-size: 18px; margin: 20px;")
         self.layout.addWidget(label)
         logout_btn = QPushButton("Déconnecter")

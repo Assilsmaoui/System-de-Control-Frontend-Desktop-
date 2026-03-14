@@ -19,14 +19,17 @@ def login_user(username: str, password: str):
         response.raise_for_status()
         data = response.json()
         token = data.get("access_token") or data.get("token")
+        user_id = data.get("user_id") or data.get("id")
         if token:
             try:
                 decoded = jwt.decode(token, options={"verify_signature": False})
                 role = decoded.get("role")
-                # Retourner aussi le token et le username
-                return {"role": role, "token": token, "username": username, "error": None}
+                # Extraire user_id du token si absent dans la réponse
+                if not user_id:
+                    user_id = decoded.get("user_id") or decoded.get("id")
+                return {"role": role, "token": token, "username": username, "user_id": user_id, "error": None}
             except Exception as e:
-                return {"role": None, "token": token, "username": username, "error": f"Erreur décodage JWT : {e}"}
-        return {"role": None, "token": None, "username": username, "error": data.get('message', 'Token manquant')}
+                return {"role": None, "token": token, "username": username, "user_id": user_id, "error": f"Erreur décodage JWT : {e}"}
+        return {"role": None, "token": None, "username": username, "user_id": user_id, "error": data.get('message', 'Token manquant')}
     except requests.RequestException as e:
-        return {'role': None, 'token': None, 'username': username, 'error': f"Erreur de connexion : {e}"}
+        return {'role': None, 'token': None, 'username': username, 'user_id': None, 'error': f"Erreur de connexion : {e}"}
