@@ -856,3 +856,75 @@
 2026-03-14 15:55:33 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260314_155533.png
 2026-03-14 15:57:02 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_155702.png
 2026-03-14 15:57:41 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260314_155740.png
+2026-03-16 11:43:17 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260316_114317.png
+2026-03-16 12:02:04 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260316_120203.png
+2026-03-16 12:19:39 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260316_121939.png
+2026-03-16 12:19:51 | Historique des notifications | screenshotsaa/Historique des notifications_20260316_121951.png
+2026-03-16 12:20:05 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260316_122005.png
+2026-03-16 12:20:29 | FastAPI - Swagger UI et 1 page supplémentaire - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI et 1 page supplémentaire  Profil1  Microsoft Edge_20260316_122029.png
+2026-03-16 12:20:43 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260316_122043.png
+2026-03-16 12:20:57 | FastAPI - Swagger UI et 1 page supplémentaire - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI et 1 page supplémentaire  Profil1  Microsoft Edge_20260316_122057.png
+2026-03-16 12:21:09 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260316_122109.png
+2026-03-16 12:22:03 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260316_122202.png
+2026-03-16 12:22:29 | main_window.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/main_windowpy  Controle Systéme Frontend  Visual Studio Code_20260316_122229.png
+2026-03-16 12:26:09 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260316_122609.png
+2026-03-16 12:30:44 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260316_123044.png
+2026-03-16 12:30:54 | Historique des notifications | screenshotsaa/Historique des notifications_20260316_123054.png
+2026-03-16 12:31:10 | notification_manager.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_managerpy  Controle Systéme Frontend  Visual Studio Code_20260316_123110.png
+2026-03-16 12:33:02 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260316_123302.png
+2026-03-16 12:33:10 | Historique des notifications | screenshotsaa/Historique des notifications_20260316_123310.png
+2026-03-16 12:34:21 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260316_123421.png
+2026-03-16 12:34:39 | notifications_ws.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/notifications_wspy  Controle Systéme Back  Visual Studio Code_20260316_123438.png
+2026-03-16 12:42:08 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260316_124208.png
+2026-03-16 12:52:07 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260316_125207.png
+2026-03-16 12:52:30 | notification_service.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_servicepy  Controle Systéme Frontend  Visual Studio Code_20260316_125230.png
+2026-03-16 12:56:23 | FastAPI - Swagger UI et 2 pages de plus - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI et 2 pages de plus  Profil1  Microsoft Edge_20260316_125623.png
+2026-03-16 12:57:14 | notifications_ws.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/notifications_wspy  Controle Systéme Back  Visual Studio Code_20260316_125714.png
+2026-03-16 12:58:01 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260316_125801.png
+2026-03-16 12:58:11 | notification_service.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_servicepy  Controle Systéme Frontend  Visual Studio Code_20260316_125810.png
+2026-03-16 13:00:55 | FastAPI - Swagger UI et 2 pages de plus - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI et 2 pages de plus  Profil1  Microsoft Edge_20260316_130055.png
+2026-03-16 13:01:36 | notification_service.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_servicepy  Controle Systéme Frontend  Visual Studio Code_20260316_130136.png
+2026-03-16 13:02:08 | Historique des notifications | screenshotsaa/Historique des notifications_20260316_130208.png
+2026-03-16 13:05:09 | FastAPI - Swagger UI et 2 pages de plus - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI et 2 pages de plus  Profil1  Microsoft Edge_20260316_130509.png
+2026-03-16 13:05:21 | notification_service.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_servicepy  Controle Systéme Frontend  Visual Studio Code_20260316_130520.png
+2026-03-16 13:05:29 | FastAPI - Swagger UI et 2 pages de plus - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI et 2 pages de plus  Profil1  Microsoft Edge_20260316_130529.png
+2026-03-16 13:05:41 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260316_130541.png
+2026-03-16 13:10:25 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260316_131025.png
+2026-03-16 13:10:33 | Historique des notifications | screenshotsaa/Historique des notifications_20260316_131033.png
+2026-03-16 13:17:39 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260316_131739.png
+2026-03-16 13:17:56 | notification_service.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_servicepy  Controle Systéme Frontend  Visual Studio Code_20260316_131756.png
+2026-03-16 13:20:35 | Historique des notifications | screenshotsaa/Historique des notifications_20260316_132034.png
+2026-03-17 10:42:31 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260317_104231.png
+2026-03-17 10:43:45 | AdminDashboard et 1 page supplémentaire - Profil 1 – Microsoft​ Edge | screenshotsaa/AdminDashboard et 1 page supplémentaire  Profil1  Microsoft Edge_20260317_104344.png
+2026-03-17 10:49:52 | AdminDashboard et 1 page supplémentaire - Profil 1 – Microsoft​ Edge | screenshotsaa/AdminDashboard et 1 page supplémentaire  Profil1  Microsoft Edge_20260317_104952.png
+2026-03-17 10:50:03 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260317_105003.png
+2026-03-17 10:50:49 | auth_service.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/auth_servicepy  Controle Systéme Back  Visual Studio Code_20260317_105049.png
+2026-03-17 10:51:45 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260317_105145.png
+2026-03-17 10:51:55 | AdminDashboard et 1 page supplémentaire - Profil 1 – Microsoft​ Edge | screenshotsaa/AdminDashboard et 1 page supplémentaire  Profil1  Microsoft Edge_20260317_105155.png
+2026-03-17 11:17:02 | Application Système de Contrôle (Qt) | screenshotsaa/Application Système de Contrôle Qt_20260317_111701.png
+2026-03-17 11:17:10 | Historique des notifications | screenshotsaa/Historique des notifications_20260317_111710.png
+2026-03-17 11:17:40 | AdminDashboard et 4 pages de plus - Profil 1 – Microsoft​ Edge | screenshotsaa/AdminDashboard et 4 pages de plus  Profil1  Microsoft Edge_20260317_111740.png
+2026-03-23 12:16:55 | Système de Contrôle - Espace Utilisateur | screenshotsaa/Système de Contrôle  Espace Utilisateur_20260323_121655.png
+2026-03-23 12:17:49 | Google Gemini et 2 pages de plus - Profil 1 – Microsoft​ Edge | screenshotsaa/Google Gemini et 2 pages de plus  Profil1  Microsoft Edge_20260323_121748.png
+2026-03-23 15:47:14 | notification_schema.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/notification_schemapy  Controle Systéme Back  Visual Studio Code_20260323_154713.png
+2026-03-23 15:48:22 | FastAPI - Swagger UI et 2 pages de plus - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI et 2 pages de plus  Profil1  Microsoft Edge_20260323_154822.png
+2026-03-23 15:56:24 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260323_155623.png
+2026-03-23 15:56:42 | python | screenshotsaa/python_20260323_155642.png
+2026-03-23 15:56:54 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260323_155654.png
+2026-03-23 15:57:04 | python | screenshotsaa/python_20260323_155704.png
+2026-03-23 16:02:13 | FastAPI - Swagger UI et 2 pages de plus - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI et 2 pages de plus  Profil1  Microsoft Edge_20260323_160213.png
+2026-03-23 16:56:48 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260323_165648.png
+2026-03-23 16:57:06 | python | screenshotsaa/python_20260323_165703.png
+2026-03-23 16:57:33 | MongoDB Compass | screenshotsaa/MongoDB Compass_20260323_165732.png
+2026-03-23 16:57:44 | MongoDB Compass - localhost:27017/university.notifications | screenshotsaa/MongoDB Compass  localhost27017universitynotifications_20260323_165744.png
+2026-03-23 16:57:55 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260323_165755.png
+2026-03-23 16:58:25 | python | screenshotsaa/python_20260323_165824.png
+2026-03-23 16:58:37 | MongoDB Compass - localhost:27017/university.notifications | screenshotsaa/MongoDB Compass  localhost27017universitynotifications_20260323_165837.png
+2026-03-23 17:02:22 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260323_170221.png
+2026-03-23 17:11:39 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260323_171139.png
+2026-03-23 17:11:48 | python | screenshotsaa/python_20260323_171148.png
+2026-03-23 17:12:23 | notification_manager.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_managerpy  Controle Systéme Frontend  Visual Studio Code_20260323_171223.png
+2026-03-23 17:12:49 | MongoDB Compass - localhost:27017/university.notifications | screenshotsaa/MongoDB Compass  localhost27017universitynotifications_20260323_171249.png
+2026-03-23 17:13:05 | notification_manager.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_managerpy  Controle Systéme Frontend  Visual Studio Code_20260323_171304.png
+2026-03-23 17:13:58 | FastAPI - Swagger UI et 2 pages de plus - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI et 2 pages de plus  Profil1  Microsoft Edge_20260323_171357.png
+2026-03-23 17:14:27 | notification_manager.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_managerpy  Controle Systéme Frontend  Visual Studio Code_20260323_171427.png

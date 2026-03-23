@@ -1,4 +1,7 @@
 import os
+import sys
+sys.stdout = open(os.devnull, 'w')
+# sys.stderr n'est PAS redirigé, donc les erreurs s'affichent toujours dans la console.
 from datetime import datetime
 import requests
 from views.main_window import run_app_qt

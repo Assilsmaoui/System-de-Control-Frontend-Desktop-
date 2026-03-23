@@ -1,3 +1,12 @@
+# Nouvelle méthode pour récupérer l'historique des notifications d'un utilisateur
+def get_user_notifications(user_id):
+    try:
+        url = f"{BACKEND_URL}/notifications/user/{user_id}"
+        response = requests.get(url)
+        response.raise_for_status()
+        return response.json()  # On suppose que la réponse est une liste de notifications
+    except requests.RequestException as e:
+        return []
 # Service pour interagir avec le backend FastAPI
 import requests
 from config.settings import BACKEND_URL
