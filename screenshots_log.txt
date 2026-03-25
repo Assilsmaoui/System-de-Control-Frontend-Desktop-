@@ -928,3 +928,60 @@
 2026-03-23 17:13:05 | notification_manager.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_managerpy  Controle Systéme Frontend  Visual Studio Code_20260323_171304.png
 2026-03-23 17:13:58 | FastAPI - Swagger UI et 2 pages de plus - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI et 2 pages de plus  Profil1  Microsoft Edge_20260323_171357.png
 2026-03-23 17:14:27 | notification_manager.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_managerpy  Controle Systéme Frontend  Visual Studio Code_20260323_171427.png
+2026-03-24 11:08:14 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260324_110814.png
+2026-03-24 22:36:10 | notification_manager.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_managerpy  Controle Systéme Frontend  Visual Studio Code_20260324_223609.png
+2026-03-24 22:38:13 | Liste de raccourcis pour Google Chrome | screenshotsaa/Liste de raccourcis pour GoogleChrome_20260324_223812.png
+2026-03-24 22:38:25 | Meet – ott-idkn-gmg - Google Chrome | screenshotsaa/Meet  ottidkngmg  Google Chrome_20260324_223824.png
+2026-03-25 15:33:06 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_153306.png
+2026-03-25 15:47:40 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_154740.png
+2026-03-25 15:54:52 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_155452.png
+2026-03-25 15:58:45 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_155845.png
+2026-03-25 16:02:26 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_160226.png
+2026-03-25 16:03:29 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_160329.png
+2026-03-25 16:06:18 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_160618.png
+2026-03-25 16:06:46 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_160646.png
+2026-03-25 16:09:26 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_160926.png
+2026-03-25 16:17:42 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260325_161741.png
+2026-03-25 16:25:51 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260325_162550.png
+2026-03-25 16:30:16 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260325_163016.png
+2026-03-26 10:12:09 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260326_101209.png
+2026-03-26 10:13:39 | python | screenshotsaa/python_20260326_101339.png
+2026-03-26 10:14:08 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260326_101408.png
+2026-03-26 10:14:44 | AdminDashboard et 1 page supplémentaire - Profil 1 – Microsoft​ Edge | screenshotsaa/AdminDashboard et 1 page supplémentaire  Profil1  Microsoft Edge_20260326_101444.png
+2026-03-26 11:16:31 | Je n’aime pas. | screenshotsaa/Je naime pas_20260326_111620.png
+2026-03-26 11:16:53 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260326_111652.png
+2026-03-26 11:17:03 | projects.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/projectspy  Controle Systéme Back  Visual Studio Code_20260326_111702.png
+2026-04-07 16:40:22 | activity_logs.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/activity_logspy  Controle Systéme Back  Visual Studio Code_20260407_164021.png
+2026-04-07 16:40:39 | FastAPI - Swagger UI et 4 pages de plus - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI et 4 pages de plus  Profil1  Microsoft Edge_20260407_164039.png
+2026-04-07 16:40:50 | activity_logs.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/activity_logspy  Controle Systéme Back  Visual Studio Code_20260407_164049.png
+2026-04-07 16:41:12 | MongoDB Compass - localhost:27017/university.activity_logs | screenshotsaa/MongoDB Compass  localhost27017universityactivity_logs_20260407_164112.png
+2026-04-07 16:41:28 | activity_logs.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/activity_logspy  Controle Systéme Back  Visual Studio Code_20260407_164128.png
+2026-04-07 17:07:30 | activity_logger.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/activity_loggerpy  Controle Systéme Frontend  Visual Studio Code_20260407_170729.png
+2026-04-07 17:07:56 | MongoDB Compass - localhost:27017/university.users | screenshotsaa/MongoDB Compass  localhost27017universityusers_20260407_170756.png
+2026-04-07 17:08:07 | activity_logger.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/activity_loggerpy  Controle Systéme Frontend  Visual Studio Code_20260407_170807.png
+2026-04-07 17:11:33 | activity_log_model.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/activity_log_modelpy  Controle Systéme Back  Visual Studio Code_20260407_171133.png
+2026-04-07 17:14:25 | activity_log_service.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/activity_log_servicepy  Controle Systéme Back  Visual Studio Code_20260407_171424.png
+2026-04-07 17:14:50 | MongoDB Compass - localhost:27017/university.activity_logs | screenshotsaa/MongoDB Compass  localhost27017universityactivity_logs_20260407_171449.png
+2026-04-07 17:15:55 | activity_log_service.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/activity_log_servicepy  Controle Systéme Back  Visual Studio Code_20260407_171555.png
+2026-04-07 17:16:11 | MongoDB Compass - localhost:27017/university.activity_logs | screenshotsaa/MongoDB Compass  localhost27017universityactivity_logs_20260407_171610.png
+2026-04-14 17:14:00 | Système de Gestion Professionnel (Ne répond pas) | screenshotsaa/Système de Gestion Professionnel Ne répond pas_20260414_171357.png
+2026-04-14 17:14:30 | Welcome - Controle Systéme Back - Visual Studio Code | screenshotsaa/Welcome  Controle Systéme Back  Visual Studio Code_20260414_171429.png
+2026-04-17 23:39:29 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260417_233926.png
+2026-04-17 23:41:20 | Messages envoyés - assilsmaoui71@gmail.com - Gmail et 1 page supplémentaire - Profil 1 – Microsoft​ Edge | screenshotsaa/Messages envoyés  assilsmaoui71gmailcom  Gmail et 1 page supplémentaire  Profil1  Microsoft Edge_20260417_234120.png
+2026-04-17 23:42:02 | Nouvel onglet et 2 pages de plus - Profil 1 – Microsoft​ Edge | screenshotsaa/Nouvel onglet et 2 pages de plus  Profil1  Microsoft Edge_20260417_234200.png
+2026-04-21 11:54:24 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260421_115424.png
+2026-04-21 11:54:46 | MongoDB Compass - localhost:27017/university.tasks | screenshotsaa/MongoDB Compass  localhost27017universitytasks_20260421_115446.png
+2026-04-21 11:56:21 | MongoDB Compass - localhost:27017/university.users | screenshotsaa/MongoDB Compass  localhost27017universityusers_20260421_115621.png
+2026-04-21 11:56:36 | MongoDB Compass - localhost:27017/university.tasks | screenshotsaa/MongoDB Compass  localhost27017universitytasks_20260421_115635.png
+2026-04-21 11:57:03 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260421_115703.png
+2026-04-21 11:57:49 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260421_115749.png
+2026-04-21 11:59:21 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260421_115921.png
+2026-04-21 11:59:34 | tasks.py - Controle Systéme Back - Visual Studio Code | screenshotsaa/taskspy  Controle Systéme Back  Visual Studio Code_20260421_115934.png
+2026-04-21 12:04:13 | MongoDB Compass - localhost:27017/university.activity_logs | screenshotsaa/MongoDB Compass  localhost27017universityactivity_logs_20260421_120413.png
+2026-04-21 12:04:42 | MongoDB Compass - localhost:27017/university.activity_logs | screenshotsaa/MongoDB Compass  localhost27017universityactivity_logs_20260421_120441.png
+2026-04-21 12:05:38 | screenshots_log.txt - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/screenshots_logtxt  Controle Systéme Frontend  Visual Studio Code_20260421_120538.png
+2026-04-21 12:10:38 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260421_121038.png
+2026-04-21 12:17:49 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260421_121749.png
+2026-04-21 12:18:22 | user_tasks_view.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/user_tasks_viewpy  Controle Systéme Frontend  Visual Studio Code_20260421_121821.png
+2026-04-21 12:20:42 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260421_122042.png
+2026-04-21 12:22:03 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260421_122203.png

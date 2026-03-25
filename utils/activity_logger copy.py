@@ -6,17 +6,11 @@ import sys
 import requests
 import mss
 import mss.tools
-import json
-import shutil
-import threading
-import random
 
 # ---------------- CONFIG ----------------
 log_file = "activityaa_log.txt"
 screenshot_dir = "screenshotsaa"
 os.makedirs(screenshot_dir, exist_ok=True)
-TASK_SCREENSHOT_DIR = "screenshottaches"
-os.makedirs(TASK_SCREENSHOT_DIR, exist_ok=True)
 
 # ---------------- GET USER_ID ----------------
 if len(sys.argv) > 1:
@@ -119,159 +113,6 @@ def log_screenshot(filename, window_title):
     with open("screenshots_log.txt", "a", encoding="utf-8") as f:
         f.write(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | {window_title} | {filename}\n")
 
-
-def capture_for_task(task_id: str, user_id: str) -> dict:
-    """Trigger an immediate screenshot for the currently active application and
-    link it to a task. Returns a record dict. Does not change other workflows.
-
-    This function is intended to be called when the user clicks a task marked
-    as 'en cours' in the UI.
-    """
-    app = get_application()
-    if not app:
-        app = ""
-    # take screenshot using existing helper (saves into screenshotsaa)
-    filename = take_screenshot(app)
-    # if success, move into TASK_SCREENSHOT_DIR to separate task captures
-    if filename:
-        try:
-            base = os.path.basename(filename)
-            target = os.path.join(TASK_SCREENSHOT_DIR, base)
-            shutil.move(filename, target)
-            filename = target
-        except Exception:
-            # fallback: keep original filename
-            pass
-    ts = datetime.now().isoformat()
-    record = {
-        "task_id": task_id,
-        "user_id": user_id,
-        "app": app,
-        "image": filename,
-        "captured_at": ts,
-    }
-
-    # Persist mapping locally for later processing by frontend/backend
-    try:
-        with open("task_captures_log.txt", "a", encoding="utf-8") as fh:
-            fh.write(json.dumps(record, ensure_ascii=False) + "\n")
-    except Exception:
-        pass
-
-    # Try to flush this and previous records to backend
-    try:
-        flush_task_captures_to_backend()
-    except Exception:
-        pass
-
-    return record
-
-
-def flush_task_captures_to_backend(endpoint: str = "http://localhost:8000/task_captures/") -> None:
-    """Read `task_captures_log.txt` and POST each record to backend.
-    On success remove the line; otherwise keep for later retry.
-    """
-    infile = "task_captures_log.txt"
-    if not os.path.exists(infile):
-        return
-    temp_out = infile + ".pending"
-    any_failed = False
-    with open(infile, "r", encoding="utf-8") as fin, open(temp_out, "w", encoding="utf-8") as fout:
-        for line in fin:
-            line = line.strip()
-            if not line:
-                continue
-            try:
-                record = json.loads(line)
-            except Exception:
-                # keep malformed lines
-                fout.write(line + "\n")
-                any_failed = True
-                continue
-            try:
-                resp = requests.post(endpoint, json=record, timeout=10)
-                if resp.status_code >= 200 and resp.status_code < 300:
-                    # success: skip writing line
-                    continue
-                else:
-                    fout.write(line + "\n")
-                    any_failed = True
-            except Exception:
-                fout.write(line + "\n")
-                any_failed = True
-    # replace original file
-    try:
-        if any_failed:
-            shutil.move(temp_out, infile)
-        else:
-            os.remove(infile)
-            os.remove(temp_out)
-    except Exception:
-        # best-effort: ignore
-        pass
-
-
-def _capture_worker(task_id: str, user_id: str, stop_event: threading.Event, max_interval_seconds: int = 600):
-    """Background worker: take captures at random intervals up to max_interval_seconds
-    until stop_event is set. Uses capture_for_task to persist mapping.
-    """
-    while not stop_event.is_set():
-        # pick a random delay between 30s and max_interval_seconds
-        delay = random.randint(30, max(30, max_interval_seconds))
-        # wait can be interrupted by stop_event
-        stopped = stop_event.wait(delay)
-        if stopped:
-            break
-        try:
-            capture_for_task(task_id, user_id)
-        except Exception:
-            # keep running even if a single capture fails
-            pass
-
-
-def start_task_capture(task_id: str, user_id: str, max_interval_seconds: int = 600) -> bool:
-    """Start background captures for a given task. Returns False if already running."""
-    key = f"{user_id}:{task_id}"
-    if key in _capture_threads:
-        return False
-    stop_event = threading.Event()
-    thread = threading.Thread(
-        target=_capture_worker,
-        args=(task_id, user_id, stop_event, max_interval_seconds),
-        daemon=True,
-    )
-    _capture_threads[key] = {"thread": thread, "stop": stop_event}
-    thread.start()
-    return True
-
-
-def stop_task_capture(task_id: str, user_id: str) -> bool:
-    """Stop background captures for a given task. Returns False if none running."""
-    key = f"{user_id}:{task_id}"
-    info = _capture_threads.get(key)
-    if not info:
-        return False
-    try:
-        info["stop"].set()
-        info["thread"].join(timeout=5)
-    except Exception:
-        pass
-    _capture_threads.pop(key, None)
-    return True
-
-
-def stop_all_captures_for_user(user_id: str) -> None:
-    keys = [k for k in _capture_threads.keys() if k.startswith(f"{user_id}:")]
-    for k in keys:
-        info = _capture_threads.get(k)
-        if info:
-            try:
-                info["stop"].set()
-                info["thread"].join(timeout=5)
-            except Exception:
-                pass
-            _capture_threads.pop(k, None)
-
 # ---------------- LOG ACTIVITY ----------------
 def log_short(app, start, end):
     duration = round((end - start).total_seconds(), 2)
@@ -316,9 +157,6 @@ last_logged_app = ""
 start_time = datetime.now()
 captured = False
 between_apps = False
-
-# In-memory registry for background capture threads started per task
-_capture_threads: dict = {}
 
 while True:
     app = get_application()
