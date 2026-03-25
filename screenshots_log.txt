@@ -928,3 +928,19 @@
 2026-03-23 17:13:05 | notification_manager.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_managerpy  Controle Systéme Frontend  Visual Studio Code_20260323_171304.png
 2026-03-23 17:13:58 | FastAPI - Swagger UI et 2 pages de plus - Profil 1 – Microsoft​ Edge | screenshotsaa/FastAPI  Swagger UI et 2 pages de plus  Profil1  Microsoft Edge_20260323_171357.png
 2026-03-23 17:14:27 | notification_manager.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_managerpy  Controle Systéme Frontend  Visual Studio Code_20260323_171427.png
+2026-03-24 11:08:14 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260324_110814.png
+2026-03-24 22:36:10 | notification_manager.py - Controle Systéme Frontend - Visual Studio Code | screenshotsaa/notification_managerpy  Controle Systéme Frontend  Visual Studio Code_20260324_223609.png
+2026-03-24 22:38:13 | Liste de raccourcis pour Google Chrome | screenshotsaa/Liste de raccourcis pour GoogleChrome_20260324_223812.png
+2026-03-24 22:38:25 | Meet – ott-idkn-gmg - Google Chrome | screenshotsaa/Meet  ottidkngmg  Google Chrome_20260324_223824.png
+2026-03-25 15:33:06 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_153306.png
+2026-03-25 15:47:40 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_154740.png
+2026-03-25 15:54:52 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_155452.png
+2026-03-25 15:58:45 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_155845.png
+2026-03-25 16:02:26 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_160226.png
+2026-03-25 16:03:29 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_160329.png
+2026-03-25 16:06:18 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_160618.png
+2026-03-25 16:06:46 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_160646.png
+2026-03-25 16:09:26 | Système de Contrôle | screenshotsaa/Système de Contrôle_20260325_160926.png
+2026-03-25 16:17:42 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260325_161741.png
+2026-03-25 16:25:51 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260325_162550.png
+2026-03-25 16:30:16 | Système de Gestion Professionnel | screenshotsaa/Système de Gestion Professionnel_20260325_163016.png
